@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Andrei Zinovyev"
-  avatar           : "zinovyev.jpg"
+  avatar           : zinovyev.jpg
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
