@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Title1
+About
 ======
 
 I am a permanent senior researcher in bioinformatics and systems biology at <a href="http://curie.fr">Institut Curie</a>, where I work since 2005.
