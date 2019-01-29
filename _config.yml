@@ -82,32 +82,32 @@ analytics:
 author:
   name             : "Andrei Zinovyev"
   avatar           : zinovyev.jpg
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Senior researcher at <a href="http://www.curie.fr">Institut Curie</a>, scientific coordinator of <a href="http://www.curie.fr">Computational Systems Biology of Cancer</a>"
+  location         : "Institut Curie"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=r29H9sQAAAAJ&hl=fr"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Andrei_Zinovyev"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/andrei.zinovyev"
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/auranic/"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/andrei-zinovyev-4932a27/"
+  orcid            : "https://orcid.org/0000-0002-9517-7284"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "http://twitter.com/SysBioCurie"
   vine             :
   weibo            :
   xing             :

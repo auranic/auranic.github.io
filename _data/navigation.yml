@@ -3,20 +3,18 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Books"
+    url: /books/    
+
   - title: "Talks"
     url: /talks/    
 
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
+  - title: "Projects"
+    url: https://sysbio.curie.fr/projects.html
+            
   - title: "CV"
-    url: /cv/
+    url: http://www.ihes.fr/~zinovyev/zinovyev_cv.html
     
-  - title: "Guide"
-    url: /markdown/
