@@ -1,7 +1,10 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "Publications (by year)"
     url: /publications/
+
+  - title: "Publications (by topics)"
+    url: /publications_topics/
 
   - title: "Books"
     url: /books/    
