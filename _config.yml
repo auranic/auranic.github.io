@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Home"
-  avatar           : zinovyev.jpg
+  avatar           : "zinovyev.jpg"
   bio              : "Senior researcher at <a href="http://www.curie.fr">Institut Curie</a>, scientific coordinator of <a href="http://www.curie.fr">Computational Systems Biology of Cancer</a>"
   location         : "Institut Curie"
   employer         :
