@@ -1,9 +1,9 @@
 # main links links
 main:
-  - title: "Publications (by year)"
+  - title: "Publications-year"
     url: /publications/
 
-  - title: "Publications (by topics)"
+  - title: "Publications-topics"
     url: /publications_topics/
 
   - title: "Books"
