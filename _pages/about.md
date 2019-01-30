@@ -23,24 +23,20 @@ Computational Systems Biology of Cancer
 
 Together with my group, I was involved in a number of projects on application of systems biology approach to
 improve understanding of cancer progression and rationalize cancer treatment.
-The problem-driven strategy which underlines the construction of projects of our group combines
-data-driven, model-driven and network-based approaches. 
-
-I have expertise in development of commercial software:
-therefore, the members of the group created a number of packaged tools used by the systems biology community.
+To answer questions for which no computational tools were available, we developed a number of 
+open source software packages.
 
 
 Methods of Machine Learning and AI
 ------
 
-Over the past 20 years, I develop new and improve existing methods of machine learning
-aimed at tackling the multi-level complexity of multi-dimensional data point clouds.
-In collaboration with experts from <a href="https://www2.le.ac.uk/centres/mmc">University of Leicester</a> 
-and <a href="http://pinellolab.org/">Harvard Medical School</a>, we develop scalable tools 
-for robust dimensionality reduction, applicable for data distributions
+Over the past 20 years, I've been developing new and improve existing methods of machine learning
+aimed at tackling the complexity of multi-dimensional data point clouds.
+In collaboration with my long-term collaborators from <a href="https://www2.le.ac.uk/centres/mmc">University of Leicester</a> 
+we develop scalable tools for robust dimensionality reduction, applicable for data distributions
 characterized by non-trivial complex structure and organization. One of the major applications
-of these mathematical tools today is for dealing with results of single-cell sequencing
-technology application. 
+of these mathematical tools today is for dealing with data coming from single-cell sequencing
+technology application.
 
 
 Mathematical modeling of biological systems and dealing with their complexity
