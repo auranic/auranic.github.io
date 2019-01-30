@@ -12,7 +12,9 @@ redirect_from:
 About
 ======
 
-I am a permanent senior researcher in bioinformatics and systems biology at <a href="http://curie.fr">Institut Curie</a>, where I work since 2005.
+I am a permanent senior researcher working in bioinformatics and systems biology at <a href="http://curie.fr">Institut Curie</a> since 2005.
+I co-lead and coordinate scientific projects of <a href="http://sysbio.curie.fr">Computational Systems Biology of Cancer</a> team.
+
 
 
 Title 2

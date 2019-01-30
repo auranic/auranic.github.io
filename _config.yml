@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  name             : "Home"
+  avatar           : "zinovyev.jpg"
+  bio              : "Senior researcher at Institut Curie, scientific coordinator of Computational Systems Biology of Cancer"
   location         : "Location"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
