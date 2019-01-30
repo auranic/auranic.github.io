@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Andrei Zinovyev"
   avatar           : zinovyev.jpg
-  bio              : "Senior researcher at <a href="http://curie.fr">Institut Curie</a>, scientific coordinator of <a href="http://sysbio.curie.fr">Computational Systems Biology of Cancer</a>"
+  bio              : "Senior researcher, co-leader and scientific coordinator of a research group"
   location         : "Institut Curie"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=r29H9sQAAAAJ&hl=fr"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/Andrei_Zinovyev"
+  researchgate     :  "https://www.researchgate.net/profile/Andrei_Zinovyev"
   uri              :
   bitbucket        :
   codepen          :
@@ -107,7 +107,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "https://twitter.com/SysBioCurie"
   vine             :
   weibo            :
   xing             :
