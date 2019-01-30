@@ -31,7 +31,7 @@ Methods of Machine Learning and AI
 ------
 
 Over the past 20 years, I've been developing new and improving existing methods of machine learning
-aimed at tackling the complexity of multi-dimensional data point clouds.
+aimed at quantifying the complexity of multi-dimensional data point clouds.
 In collaboration with my long-term collaborators from <a href="https://www2.le.ac.uk/centres/mmc">University of Leicester</a> 
 we develop scalable tools for robust dimensionality reduction, applicable for data distributions
 characterized by non-trivial complex structure and organization. One of the major applications
