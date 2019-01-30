@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Andrei Zinovyev"
   avatar           : zinovyev.jpg
-  bio              : "Senior researcher at Institut Curie, scientific coordinator of Computational Systems Biology of Cancer"
+  bio              : "Senior researcher at <a href="http://curie.fr">Institut Curie</a>, scientific coordinator of <a href="http://sysbio.curie.fr">Computational Systems Biology of Cancer</a>"
   location         : "Institut Curie"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=r29H9sQAAAAJ&hl=fr"
