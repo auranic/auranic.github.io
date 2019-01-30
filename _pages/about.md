@@ -18,7 +18,9 @@ After spending 3 years as a post-doc in a French analogue of Institut of Advance
 I got a permanent researcher position at <a href="http://curie.fr">Institut Curie</a> with a mission to participate in building and defining
 the strategy of a new systems biology research group.
 
-I author around 90 peer-reviewed pubications, 3 books and 15 book chapters.
+I author around 90 peer-reviewed pubications, 3 books and 15 book chapters. I have experience of numerous collaborations.
+I teach short courses on data integration and exploratory machine learning in cancer research. I participated in organization
+of a number of scientific courses, workshops and conferences.
 
 
 Computational Systems Biology of Cancer
