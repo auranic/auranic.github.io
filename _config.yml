@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Andrei Zinovyev"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Andrei Zinovyev"
-description              : &description "Senior researcher in data-driven systems biology, scientific coordinator at Institut Curie"
-url                      : https://auranic.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Your Name"
+description              : &description "personal description"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "auranic/auranic.github.io"
+repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -38,7 +38,7 @@ staticman:
   format                 : "yml"
   moderation             : true
   path                   : "_data/comments/{options.slug}"
-  requiredFields         : ['Andrei Zinovyev', 'andrei.zinovyev@curie.fr', 'You can contact me here:']
+  requiredFields         : ['name', 'email', 'message']
   transforms:
     email                : "md5"
   generatedFields:
@@ -80,34 +80,34 @@ analytics:
 
 # Site Author
 author:
-  name             : "Home"
-  avatar           : "zinovyev.jpg"
-  bio              : "Senior researcher at <a href="http://www.curie.fr">Institut Curie</a>, scientific coordinator of <a href="http://www.curie.fr">Computational Systems Biology of Cancer</a>"
-  location         : "Institut Curie"
+  name             : "Your Sidebar Name"
+  avatar           : "profile.png"
+  bio              : "Your biography for the left-hand sidebar"
+  location         : "Location"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=r29H9sQAAAAJ&hl=fr"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
-  researchgate     : "https://www.researchgate.net/profile/Andrei_Zinovyev"
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "https://www.facebook.com/andrei.zinovyev"
+  facebook         :
   foursquare       :
-  github           : "https://github.com/auranic/"
+  github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/andrei-zinovyev-4932a27/"
-  orcid            : "https://orcid.org/0000-0002-9517-7284"
+  linkedin         :
+  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "http://twitter.com/SysBioCurie"
+  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
@@ -306,5 +306,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-theme: jekyll-theme-slate
