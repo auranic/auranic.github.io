@@ -17,7 +17,7 @@ My university education was in theoretical physics (cosmology, models of closed 
 I did my PhD in computer science on the subject of developing a computationally effective method 
 of <a href="https://en.wikipedia.org/wiki/Elastic_map">elastic maps</a> for constructing non-linear principal manifolds 
 by suggesting an optimization-based generalisation of self-organizing maps.
-After spending 3 years as a post-doc in a French analogue of Advanced Studies Institute, <a href="http://www.ihes.fr">Institut des Hautes Etudes Scientifiques (IHES)</a>,
+After spending 3 years of post-doc in the French analogue of Advanced Studies Institute, <a href="http://www.ihes.fr">Institut des Hautes Etudes Scientifiques (IHES)</a>,
 I got a permanent researcher position at <a href="http://curie.fr">Institut Curie</a> with a mission to participate in building and defining
 the strategy of a new systems biology research group.
 
