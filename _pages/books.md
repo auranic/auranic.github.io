@@ -7,4 +7,12 @@ author_profile: true
 
 {% include base_path %}
 
-{% include books.html %}
+Hello, books
+
+Book1
+
+Book2
+
+Book3
+
+
