@@ -103,9 +103,15 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 <h2>2012</h2>
 {% for post in site.publications reversed %}
-  {% if post.year == 2012 %}
+  {% if post.year == 2012 %} {% if post.category == 'journal' %}
       {% include archive-simple-publication.html %}
-  {% endif %}
+  {% endif %} {% endif %}
+{% endfor %}
+<h3>Unpublished preprints</h3>
+{% for post in site.publications reversed %}
+  {% if post.year == 2012 %} {% if post.category == 'preprint' %}
+      {% include archive-simple-publication.html %}
+  {% endif %} {% endif %}
 {% endfor %}
 
 <h2>2011</h2>
