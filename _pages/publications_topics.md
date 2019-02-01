@@ -20,10 +20,12 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 <h2><a id="MLN"></a>Machine learning methods and applications</h2>
 {% for post in site.publications reversed %}
-  {% if post.pubtype == 'MLN' %} {% if post.collection == 'publications' %}
-      {% include archive-simple-publication.html %}
-      {{ post.collection }}
-  {% endif %} {% endif %}
+  {% if post.pubtype == 'MLN' %} 
+	{% if post.collection == 'publications' %}
+	      {% include archive-simple-publication.html %}
+		      {{ post.collection }}
+	{% endif %} 
+  {% endif %}
 {% endfor %}
 <h3>Peer-reviewed conference papers<h3>
 {% for post in site.publications reversed %}
