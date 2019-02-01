@@ -9,6 +9,7 @@ You can also find my articles on <a href="{{ author.googlescholar }}">my Google 
 
 {% include base_path %}
 
+<sup>*</sup>, <sup>^</sup> - stands for joint first or senior authorship.
 
 <h2>2019</h2>
 {% for post in site.publications reversed %}

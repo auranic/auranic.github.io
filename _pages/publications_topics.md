@@ -9,6 +9,8 @@ You can also find my articles on <a href="{{ author.googlescholar }}">my Google 
 
 {% include base_path %}
 
+<sup>*</sup>, <sup>^</sup> - stands for joint first or senior authorship.
+
 <h2>Topics</h2>
 <div>
 <a href="#MLN">Machine Learning</a> - <a href="#KNF">Knowledge formalization</a><br>
