@@ -57,9 +57,9 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 <h2><a id="MMN"></a>Mathematical modeling of biological networks</h2>
 {% for post in site.publications reversed %}
-  {% if post.pubtype == 'MMN' %}
+  {% if post.pubtype == 'MMN' %} {% if post.category == 'journal' %}
       {% include archive-simple-publication.html %}
-  {% endif %}
+  {% endif %} {% endif %}
 {% endfor %}
 <h3>Peer-reviewed conference papers</h3>
 {% for post in site.publications reversed %}
