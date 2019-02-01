@@ -12,7 +12,7 @@ author_profile: true
 {% include base_path %}
 
 {% for k in (2000:2019) %}
-<h2>{{forloop.index}}</h2>
+<h2>{{ forloop.index }}</h2>
 {% for post in site.publications reversed %}
   {% if post.year == k %}
       {% include archive-simple-publication.html %}
