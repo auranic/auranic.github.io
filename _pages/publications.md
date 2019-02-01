@@ -5,16 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+You can also find my articles on <a href="{{author.googlescholar}}">my Google Scholar profile</a>.
 
 {% include base_path %}
-
-<h2>2019</h2>
-{% for post in site.publications reversed %}
-  {% if post.year == 2019 %}
-      {% include archive-simple-publication.html %}
-  {% endif %}
-{% endfor %}
 
 
 <h2>2019</h2>
