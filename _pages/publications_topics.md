@@ -9,10 +9,11 @@ You can also find my articles on <a href="{{author.googlescholar}}">my Google Sc
 
 {% include base_path %}
 
+<h2>Topics</h2>
 <div>
-<a id="MLN">Machine Learning</a> - <a id="KNF">Knowledge formalization</a><br>
-<a id="MMN">Modeling biological networks</a> - <a id="CBO">Computational biology</a><br>
-<a id="REV">Reviews</a>
+<a href="#MLN">Machine Learning</a> - <a href="#KNF">Knowledge formalization</a><br>
+<a href="#MMN">Modeling biological networks</a> - <a href="#CBO">Computational biology</a><br>
+<a href="#REV">Reviews</a>
 </div>
 
 <h2><a id="MLN"></a>Machine learning methods and applications</h2>
