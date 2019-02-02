@@ -7,18 +7,27 @@ author_profile: true
 
 {% include base_path %}
 <hr>
+
 <div>
 <b>Computational Systems Biology of Cancer (<a href="http://www.amazon.fr/Computational-Systems-Biology-Emmanuel-Barillot/dp/1439831440">Amazon link</a>)</b><br>by <a href="http://curie.fr/fr/profile/barillot-002972">Emmanuel Barillot</a>, <a href="https://perso.curie.fr/Laurence.Calzone/Homepage.html">Laurence Calzone</a>, <a href="http://u900.curie.fr/en/profile/philippe-hupe-00430">Philippe Hupe</a>, <a href="http://cbio.ensmp.fr/~jvert/">Jean-Philippe Vert</a> and <a href="http://www.ihes.fr/~zinovyev">Andrei Zinovyev</a>
 <br><i>CRC Press Inc, Chapman & Hall/CRC Mathematical & Computational Biology, 2012. p. 452</i><br><br>
 </div>
+<table><tr>
+<td>
 ![Computational Systems Biology of Cancer book](https://auranic.github.io/images/csbcbook.jpg){:class="img-responsive"}
+</td>
+<td>
 <div>
 "This is the first book specifically focused on computational systems biology of cancer with coherent and proper vision on how to tackle this formidable challenge..." (c) <a href="http://en.wikipedia.org/wiki/Hiroaki_Kitano">Hiroaki Kitano</a>
 <br><br>
 The book is accompanied by a <a href="http://www.cancer-systems-biology.net/">web-site</a> containing additional materias
 </div>
+</td>
+</tr></table>
 <p></p>
 <hr>
+
+
 <div>
 <b>Principal Manifolds for Data Visualization and Dimension Reduction  (Alexander Gorban, Balazs Kagl, Donald Wunch, Andrei Zinovyev (eds.))
 (<a href="http://www.amazon.ca/Principal-Manifolds-Visualization-Dimension-Reduction/dp/3540737499">Amazon link</a>, whole book <a href="http://pca.narod.ru/contentsgkwz.htm">text</a>)</b>
@@ -30,12 +39,16 @@ In 1901, Karl Pearson invented Principal Component Analysis (PCA). Since then, P
 <div>
 <p>This book is accompanied by highly recommended site <a href="http://pca.narod.ru">pca.narod.ru</a> (in Russian)
 </div>
+
 <hr>
+
 <div>
-<b>Visualization of Multidimensional Data (In Russian) (<a HREF=ZinovyevBook.pdf>PDF</a>)</b><br>by Andrei Zinovyev 
+<b>Visualization of Multidimensional Data (In Russian)</b><br>by Andrei Zinovyev 
 <br><i>Krasnoyarsk Technical State University Press</i>, 2000.<br>
-Method of multidimensional data visualization: theory, applications and software. This is a literature version of my PhD thesis, written 1 year before the thesis.
+Method of multidimensional data visualization: theory, applications and software. 
 </div>
 ![Visualization of Multidimensional Data book](https://auranic.github.io/images/vizdatabook.jpg){:class="img-responsive"}
-
+<div>
+<p>This is a literature version of my PhD thesis, written 1 year before the thesis.
+</div>
 <hr>
