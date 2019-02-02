@@ -13,9 +13,11 @@ author_profile: true
 <br><i>CRC Press Inc, Chapman & Hall/CRC Mathematical & Computational Biology, 2012. p. 452</i><br><br>
 </div>
 
+	![Computational Systems Biology of Cancer book](https://auranic.github.io/images/csbcbook.jpg){:class="img-responsive"}
+
+
 <div class="row">
     <div class="col-md-6">
-	![Computational Systems Biology of Cancer book](https://auranic.github.io/images/csbcbook.jpg){:class="img-responsive"}
     </div>
     <div class="col-md-6">
 	"This is the first book specifically focused on computational systems biology of cancer with coherent and proper vision on how to tackle this formidable challenge..." (c) <a href="http://en.wikipedia.org/wiki/Hiroaki_Kitano">Hiroaki Kitano</a>
@@ -47,7 +49,9 @@ In 1901, Karl Pearson invented Principal Component Analysis (PCA). Since then, P
 <br><i>Krasnoyarsk Technical State University Press</i>, 2000.<br>
 Method of multidimensional data visualization: theory, applications and software. 
 </div>
+
 ![Visualization of Multidimensional Data book](https://auranic.github.io/images/vizdatabook.jpg){:class="img-responsive"}
+
 <div>
 <p>This is a literature version of my PhD thesis, written 1 year before the thesis.
 </div>
