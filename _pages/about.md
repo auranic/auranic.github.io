@@ -19,7 +19,7 @@ of <a href="https://en.wikipedia.org/wiki/Elastic_map">elastic maps</a> for cons
 by suggesting an optimization-based generalisation of self-organizing maps.
 After spending 3 years of post-doc in the French analogue of Advanced Studies Institute, <a href="http://www.ihes.fr">Institut des Hautes Etudes Scientifiques (IHES)</a>,
 I got a permanent researcher position at <a href="http://curie.fr">Institut Curie</a> with a mission to participate in building and defining
-the strategy of a new systems biology research group.
+strategy of a new systems biology research group.
 
 I co-author around 90 peer-reviewed pubications, 3 books and 15 book chapters. 
 I (co-)supervised 8 PhD students.
