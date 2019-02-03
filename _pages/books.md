@@ -11,7 +11,7 @@ author_profile: true
 <div>
 <b>Computational Systems Biology of Cancer (<a href="http://www.amazon.fr/Computational-Systems-Biology-Emmanuel-Barillot/dp/1439831440">Amazon link</a>)</b><br>by <a href="http://curie.fr/fr/profile/barillot-002972">Emmanuel Barillot</a>, <a href="https://perso.curie.fr/Laurence.Calzone/Homepage.html">Laurence Calzone</a>, <a href="http://u900.curie.fr/en/profile/philippe-hupe-00430">Philippe Hupe</a>, <a href="http://cbio.ensmp.fr/~jvert/">Jean-Philippe Vert</a> and <a href="http://www.ihes.fr/~zinovyev">Andrei Zinovyev</a>
 <br><i>CRC Press Inc, Chapman & Hall/CRC Mathematical & Computational Biology, 2012. p. 452</i><br><br>
-Introduction into the field of Computational Systems Biology of Cancer, from molecular profiling technologies to machine learning applications
+Introduction into the field of Computational Systems Biology of Cancer, from describing molecular profiling technologies to machine learning applications
 to omics data and mathematical modeling of molecular mechanisms implicated in cancer progression.
 </div>
 ![Computational Systems Biology of Cancer book](https://auranic.github.io/images/csbcbook.jpg){:class="img-responsive"}
