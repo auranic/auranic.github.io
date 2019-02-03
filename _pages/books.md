@@ -45,7 +45,7 @@ This book is accompanied by highly recommended site <a href="http://pca.narod.ru
 <hr>
 
 <div>
-<b>Visualization of Multidimensional Data (In Russian)</b><br>by Andrei Zinovyev 
+<b>Visualization of Multidimensional Data (In Russian) (<a href="http://www.ihes.fr/~zinovyev/papers/ZinovyevBook.pdf">whole book text</a>)</b><br>by Andrei Zinovyev 
 <br><i>Krasnoyarsk Technical State University Press</i>, 2000.<br>
 Methods of multidimensional data visualization, with focus on elastic map method: theory, applications and software.
 </div>
