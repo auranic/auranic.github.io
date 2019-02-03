@@ -13,17 +13,16 @@ author_profile: true
 <br><i>CRC Press Inc, Chapman & Hall/CRC Mathematical & Computational Biology, 2012. p. 452</i><br><br>
 </div>
 
-	![Computational Systems Biology of Cancer book](https://auranic.github.io/images/csbcbook.jpg){:class="img-responsive"}
-
 
 <div class="row">
-    <div class="col-md-6">
-    </div>
-    <div class="col-md-6">
-	"This is the first book specifically focused on computational systems biology of cancer with coherent and proper vision on how to tackle this formidable challenge..." (c) <a href="http://en.wikipedia.org/wiki/Hiroaki_Kitano">Hiroaki Kitano</a>
-	<br><br>
-	The book is accompanied by a <a href="http://www.cancer-systems-biology.net/">web-site</a> containing additional materias
-    </div>
+<div class="col-md-6">
+![Computational Systems Biology of Cancer book](https://auranic.github.io/images/csbcbook.jpg){:class="img-responsive"}
+</div>
+<div class="col-md-6">
+"This is the first book specifically focused on computational systems biology of cancer with coherent and proper vision on how to tackle this formidable challenge..." (c) <a href="http://en.wikipedia.org/wiki/Hiroaki_Kitano">Hiroaki Kitano</a>
+<br><br>
+The book is accompanied by a <a href="http://www.cancer-systems-biology.net/">web-site</a> containing additional materias
+</div>
 </div>
 
 <p></p>
