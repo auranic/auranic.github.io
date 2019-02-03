@@ -47,9 +47,8 @@ In 1901, Karl Pearson invented Principal Component Analysis (PCA). Since then, P
 <br><i>Krasnoyarsk Technical State University Press</i>, 2000.<br>
 Method of multidimensional data visualization: theory, applications and software. 
 </div>
-
 ![Visualization of Multidimensional Data book](https://auranic.github.io/images/vizdatabook.jpg){:class="img-responsive"}
-
+<br><br>
 <div>
 <p>This is a literature version of my PhD thesis, written 1 year before the thesis.
 </div>
