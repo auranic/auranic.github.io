@@ -19,7 +19,7 @@ author_profile: true
 </div>
 <div class="col-md-6">
 "This is the first book specifically focused on computational systems biology of cancer with coherent and proper vision on how to tackle this formidable challenge..." (c) <a href="http://en.wikipedia.org/wiki/Hiroaki_Kitano">Hiroaki Kitano</a>
-<br><br>
+<br>
 The book is accompanied by a <a href="http://www.cancer-systems-biology.net/">web-site</a> containing additional materias
 </div>
 </div>
@@ -36,8 +36,8 @@ In 1901, Karl Pearson invented Principal Component Analysis (PCA). Since then, P
 </div>
 ![Principal Manifolds for Data Visualization and Dimension Reduction book](https://auranic.github.io/images/princmanifbook.jpg){:class="img-responsive"}
 <br>
-<div>
-<p>This book is accompanied by highly recommended site <a href="http://pca.narod.ru">pca.narod.ru</a> (in Russian)
+<div class="row">
+This book is accompanied by highly recommended site <a href="http://pca.narod.ru">pca.narod.ru</a> (in Russian)
 </div>
 
 <hr>
@@ -45,11 +45,11 @@ In 1901, Karl Pearson invented Principal Component Analysis (PCA). Since then, P
 <div>
 <b>Visualization of Multidimensional Data (In Russian)</b><br>by Andrei Zinovyev 
 <br><i>Krasnoyarsk Technical State University Press</i>, 2000.<br>
-Methods of multidimensional data visualization, with focus on elastic map method: theory, applications and software. 
+Methods of multidimensional data visualization, with focus on elastic map method: theory, applications and software.
 </div>
 ![Visualization of Multidimensional Data book](https://auranic.github.io/images/vizdatabook.jpg){:class="img-responsive"}
 <br>
-<div>
-<p>This is a literature version of my PhD thesis, written 1 year before the thesis.
+<div class="row">
+This is a literature version of my PhD thesis, written 1 year before the thesis.
 </div>
 <hr>
