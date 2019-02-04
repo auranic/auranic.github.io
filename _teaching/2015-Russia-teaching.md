@@ -8,8 +8,9 @@ location: "Moscow, Russia"
 dates: "2015"
 ---
 
-In July 2015, I was as principal organizer, developer and lecturer of 7-days course 
+In July 2015, I was as principal organizer, developer and lecturer of 7-days intensive course 
 <a href="https://www.skoltech.ru/en/2015/07/omics-intensive-module/">Omics Data Analysis and Medical Applications</a>
 aimed at professional bioinformaticians and PhD students. The course covered a wide range of topics 
-in application and analysis of omics data in various diseases including cancer. 
+in application and analysis of omics data in various diseases including cancer. Theoretical lectures
+were accompanied by hands-on sessions.
 

@@ -9,5 +9,5 @@ dates: "2011"
 ---
 
 As a part of joint Kazakhstan-France PhD program, I developed and delivered a 40-hours course on Computational Systems Biology
-of Cancer, covering aspects of technology, data analysis, machine learning techniques, mathematical modeling of networks in cancer
+of Cancer, covering many aspects of technology, data analysis, machine learning techniques, mathematical modeling of networks in cancer
 research. The course included approximately 15 hours of intensive hands-on sessions.
