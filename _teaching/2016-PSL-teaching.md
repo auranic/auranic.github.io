@@ -5,6 +5,7 @@ type: "Pre-doctoral course"
 permalink: /teaching/2016-PSL-teaching
 venue: "Universite Paris, Institute of  Technology and Innovation"
 location: "Paris, France"
+dates: "2016-2018"
 ---
 
 In 2016 and 2017 I was a co-organizer and lecturer of 80 hours teaching module "Mathematical Modeling of Biological Systems" 

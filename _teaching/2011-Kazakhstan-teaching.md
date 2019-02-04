@@ -5,6 +5,7 @@ type: "PhD course"
 permalink: /teaching/2011-Kazakhstan-teaching
 venue: "Alma Ata University"
 location: "Alma Ata, Kazakhstan"
+dates: "2011"
 ---
 
 As a part of joint Kazakhstan-France PhD program, I developed and delivered a 40-hours course on Computational Systems Biology

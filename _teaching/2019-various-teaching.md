@@ -4,7 +4,7 @@ collection: teaching
 type: "---"
 permalink: /teaching/2019-various-teaching
 venue: "Various venues"
-location: "Worldwide"
+location: "---"
 dates: "2005-2019"
 ---
 
