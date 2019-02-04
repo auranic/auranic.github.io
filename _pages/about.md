@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a permanent senior researcher working at the <a href="http://www.curie.fr">Institut Curie</a> since 2005.
+I am a permanent senior researcher working at <a href="http://www.curie.fr">Institut Curie</a> since 2005.
 
 I co-lead and coordinate scientific projects of <a href="http://sysbio.curie.fr">Computational Systems Biology of Cancer</a> team 
 inside <a href="https://science.institut-curie.org/research/integrated-biology/bioinformatics-biostatistics-epidemiology-and-computational-systems-biology-of-cancer/">Bioinformatics of Cancer department</a>.
