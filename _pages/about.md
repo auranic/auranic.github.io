@@ -44,8 +44,8 @@ Methodology of machine learning and artifical intelligence
 ------
 
 Over the past 20 years, I've been developing new and improving existing methods of machine learning
-aimed at quantifying the complexity of multi-dimensional data point clouds.
-In collaboration with my long-term collaborators from <a href="https://www2.le.ac.uk/centres/mmc">University of Leicester</a> 
+aimed at tackling the complexity of multi-dimensional data point clouds.
+Together with my long-term collaborators from <a href="https://www2.le.ac.uk/centres/mmc">University of Leicester</a> 
 we develop scalable tools for robust dimensionality reduction, applicable for data distributions
 characterized by non-trivial complex structure and organization. 
 We introduced methods of <a href="https://www.sciencedirect.com/science/article/pii/S0893965906001856">topological graph grammars</a> and 
@@ -53,16 +53,16 @@ We introduced methods of <a href="https://www.sciencedirect.com/science/article/
 Based on ideas from tropical mathematics, we develop a <a href="https://www.sciencedirect.com/science/article/pii/S0893608016301113">theory of piece-wise quadratic function approximation and optimization</a> which allows making many of existing machine learning methods faster and more robust to noise.
 We developed <a href="https://arxiv.org/abs/1901.06328">effective dimension estimates</a> based on data point separability properties. We study
 the phenomenon of <a href="https://royalsocietypublishing.org/doi/full/10.1098/rsta.2017.0237">"blessing of dimensionality"</a> for truely high-dimensional data distributions, and how it can be
-exploited for correcting legacy artificial intelligence systems in real-life applications.
-One of the major applications of these mathematical tools today is for dealing with large-scale data coming from single-cell sequencing
-technology application.
+exploited for correcting legacy artificial intelligence systems without re-training them in real-life applications.
+One of the major applications of these mathematical tools today is for dealing with large-scale data coming from 
+biomedicine; for example, from application of single-cell sequencing technology.
 
 
 Dealing with complexity of biological systems through mathematical modeling
 ------
 
-I have an extensive experience and long-term interest to the mechanistical modeling
-of biological systems. My special interest is how one can create realistic
+I have an extensive experience and long-term interest in the mechanistical modeling
+of biological systems. My special focus is on how one can create realistic
 dynamic models of large biochemical networks.
 I have long-term interest in model reduction (reducing complexity of mathematical models).
 With my group, we pioneered application of discrete (Boolean) 
