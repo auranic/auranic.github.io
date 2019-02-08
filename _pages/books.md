@@ -52,6 +52,5 @@ Methods of multidimensional data visualization, with focus on the elastic map me
 ![Visualization of Multidimensional Data book](https://auranic.github.io/images/vizdatabook.jpg){:class="img-responsive"}
 <br>
 <div class="row">
-This is a literature version of my PhD thesis, written 1 year before the thesis defense.
 </div>
 <hr>
