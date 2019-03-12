@@ -14,7 +14,7 @@ I co-lead and coordinate scientific projects of <a href="http://sysbio.curie.fr"
 inside <a href="https://science.institut-curie.org/research/integrated-biology/bioinformatics-biostatistics-epidemiology-and-computational-systems-biology-of-cancer/">Bioinformatics of Cancer department</a>.
 
 My university education was in theoretical physics (cosmology, models of closed Universe with conformal metrics). 
-I did my PhD in computer science on the subject of developing a computationally effective method 
+I did my PhD in computer science under supervision of <a href="https://en.wikipedia.org/wiki/Aleksandr_Gorban">Alexander Gorban</a> on the subject of developing a computationally effective method 
 of <a href="https://en.wikipedia.org/wiki/Elastic_map">elastic maps</a> for constructing non-linear principal manifolds 
 by suggesting an optimization-based generalisation of self-organizing maps.
 After spending 3 years of post-doc in the French analogue of Advanced Studies Institute, <a href="http://www.ihes.fr">Institut des Hautes Etudes Scientifiques (IHES)</a>,
