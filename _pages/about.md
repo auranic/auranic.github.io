@@ -13,7 +13,10 @@ I am a permanent senior researcher working at <a href="http://www.curie.fr">Inst
 I co-lead and coordinate scientific projects of <a href="http://sysbio.curie.fr">Computational Systems Biology of Cancer</a> team 
 inside <a href="https://science.institut-curie.org/research/integrated-biology/bioinformatics-biostatistics-epidemiology-and-computational-systems-biology-of-cancer/">Bioinformatics of Cancer department</a>.
 
-test
+From 2019, I hold an interdisciplinary chair at <a href="https://prairie-institute.fr/">Prairie - PaRis Artificial Intelligence Research InstitutE</a>.
+PRAIRIE pursues fundamental research in core areas of AI as well as interdisciplinary work at its interface with sciences and applications.
+My research focus at PRAIRIE is at studying the geometry of high-dimensional spaces of multi-omics data, including single cell data which become abundant 
+in biological research.
 
 My university education was in theoretical physics (cosmology, models of closed Universe with conformal metrics). 
 I did my PhD in computer science under supervision of <a href="https://en.wikipedia.org/wiki/Aleksandr_Gorban">Alexander Gorban</a> on the subject of developing a computationally effective method 
