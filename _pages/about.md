@@ -26,8 +26,8 @@ After spending 3 years of post-doc in the French analogue of Advanced Studies In
 I got a permanent researcher position at <a href="http://curie.fr">Institut Curie</a> with a mission to participate in building and defining
 strategy of a new systems biology research group.
 
-I co-author about 90 peer-reviewed pubications, 3 books and 15 book chapters. 
-I (co-)supervised 7 PhD students.
+I co-author about 100 peer-reviewed pubications, 3 books and 16 book chapters. 
+I (co-)supervised 10 PhD students.
 I am an active scientific software developer.
 I have rich experience of scientific and industrial collaborations. 
 I teach short courses on data integration and application of machine learning in cancer research. 
