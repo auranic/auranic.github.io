@@ -11,6 +11,14 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 <sup>*</sup>, <sup>^</sup> - stands for joint first or senior authorship.
 
+<h2>2020</h2>
+{% for post in site.publications reversed %}
+  {% if post.year == 2020 %} {% if post.category == 'journal' %}
+      {% include archive-simple-publication.html %}
+  {% endif %} {% endif %}
+{% endfor %}
+
+
 <h2>2019</h2>
 {% for post in site.publications reversed %}
   {% if post.year == 2019 %} {% if post.category == 'journal' %}
