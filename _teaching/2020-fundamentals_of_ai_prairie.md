@@ -51,3 +51,5 @@ Schedule for the lectures:
 5. Lecture 'Selected topics in unsupervised machine learning'
 
 In case you want to downloads all videos and watch locally, [download them here](http://www.ihes.fr/~zinovyev/FundamentalsOfAI2020_lectures/).
+
+[Lecture slides can be downloaded here](http://www.ihes.fr/~zinovyev/FundamentalsOfAI2020_lectures/Slides) 
