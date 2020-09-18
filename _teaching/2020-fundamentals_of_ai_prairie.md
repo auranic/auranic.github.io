@@ -4,7 +4,7 @@ collection: teaching
 type: "Master 2 students"
 permalink: /teaching/2020-fundamentals_of_ai_prairie
 venue: "Universite Paris"
-location: "---"
+location: "Universite Paris Dauphine-PSL"
 dates: "2020"
 ---
 
@@ -22,25 +22,25 @@ Schedule for the lectures:
 
 ## Lecture videos for the course :
 
-0. [Hello words](https://www.youtube.com/watch?v=8aibVvpE1Ws) (10 mins)
+[Hello words](https://www.youtube.com/watch?v=8aibVvpE1Ws) (10 mins)
 
 1. Lecture 'Introduction and basic concepts' (Total duration: 4 hours)
 
-1.1. [Introductory words](https://www.youtube.com/watch?v=Jrj23vRnrFw) (30 mins)
+	1.1. [Introductory words](https://www.youtube.com/watch?v=Jrj23vRnrFw) (30 mins)
 
-1.2. [Learning machine learning](https://www.youtube.com/watch?v=tvPXV902Zqk) (22 mins)
+	1.2. [Learning machine learning](https://www.youtube.com/watch?v=tvPXV902Zqk) (22 mins)
 
-1.3. [Data space](https://www.youtube.com/watch?v=-wS5413i6og) (22 mins)
+	1.3. [Data space](https://www.youtube.com/watch?v=-wS5413i6og) (22 mins)
 
-1.4. [Distance in data space](https://www.youtube.com/watch?v=-Zn1e5QIpKE) (42 mins)
+	1.4. [Distance in data space](https://www.youtube.com/watch?v=-Zn1e5QIpKE) (42 mins)
 
-1.5. [Mean point](https://www.youtube.com/watch?v=nIMT9JuvaLE) (19 mins)
+	1.5. [Mean point](https://www.youtube.com/watch?v=nIMT9JuvaLE) (19 mins)
 
-1.6. [Conditional probability](https://www.youtube.com/watch?v=2lxrigbBuns) (34 mins)
+	1.6. [Conditional probability](https://www.youtube.com/watch?v=2lxrigbBuns) (34 mins)
 
-1.7. [Bayesian networks](https://www.youtube.com/watch?v=G2ru91a6OS4) (39 mins)
+	1.7. [Bayesian networks](https://www.youtube.com/watch?v=G2ru91a6OS4) (39 mins)
 
-1.8. [Probability Density Function](https://www.youtube.com/watch?v=OUzcI5YFB3Y) (35 mins)
+	1.8. [Probability Density Function](https://www.youtube.com/watch?v=OUzcI5YFB3Y) (35 mins)
 
 2. Lecture 'Clustering'
 
