@@ -2,7 +2,7 @@
 title: "Course M2 IASD, Fondamentaux de l'apprentissage automatique"
 collection: teaching
 type: "---"
-permalink: /teaching/2020-fundamentals_of_ai_prairie.md
+permalink: /teaching/2020-fundamentals_of_ai_prairie
 venue: "Universite de Paris"
 location: "---"
 dates: "2020"
