@@ -44,15 +44,15 @@ Schedule for the lectures:
 
 2. Lecture 'Clustering' (Total duration 2.5 hours)
 
-	1.1. [Introduction of clustering problem](https://www.youtube.com/watch?v=jHvRQIGmUUU) (25 mins)
+	2.1. [Introduction of clustering problem](https://www.youtube.com/watch?v=jHvRQIGmUUU) (25 mins)
 
-	1.2. [K-means clustering algorithm](https://www.youtube.com/watch?v=0h-zulQ8oK8) (33 mins)
+	2.2. [K-means clustering algorithm](https://www.youtube.com/watch?v=0h-zulQ8oK8) (33 mins)
 
-	1.3. [Hierarchical clustering](https://www.youtube.com/watch?v=txvJhkT4GOg) (23 mins)
+	2.3. [Hierarchical clustering](https://www.youtube.com/watch?v=txvJhkT4GOg) (23 mins)
 
-	1.4. [Density- and graph-based clustering](https://www.youtube.com/watch?v=Yia3fkJB9YI) (29 mins)
+	2.4. [Density- and graph-based clustering](https://www.youtube.com/watch?v=Yia3fkJB9YI) (29 mins)
 
-	1.5. [Assessment of clustering quality](https://www.youtube.com/watch?v=R2Xmodxp1_s) (31 mins)
+	2.5. [Assessment of clustering quality](https://www.youtube.com/watch?v=R2Xmodxp1_s) (31 mins)
 
 3. Lecture 'Dimensionality reduction'
 
