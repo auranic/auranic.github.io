@@ -1,5 +1,5 @@
 ---
-title: "Data integration and analysis in cancer research"
+title: "Systems Biology in cancer research"
 collection: teaching
 type: "Master 2 course"
 permalink: /teaching/2009-ENS-teaching
