@@ -12,7 +12,9 @@ dates: "2009-2020"
 Links to the videos with recorded lectures
 
 [1. Systems Biology in Cancer Research, Introduction](https://www.youtube.com/watch?v=4bYC0jJguiE) (30 mins)
+
 [2. Systems Biology in Cancer Research, Biological networks and formalizing knowledge](https://www.youtube.com/watch?v=CbRdankZeQQ) (16 mins)
+
 [3. Systems Biology in Cancer Research, Application of Biological networks in mutation data analysis](https://www.youtube.com/watch?v=Yk-ilmW8CGw) (30 mins)
 
 
