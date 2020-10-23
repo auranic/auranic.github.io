@@ -10,15 +10,16 @@ dates: "2020"
 
 ## Information for the students:
 
-The room for question-answer sessions: B113
+The room for question-answer sessions and lectures: B113
 
 Schedule for the lectures:
 
 1. Monday 21/09, 13:45-17:00
 2. Wednesday 07/10, 13:45-17:00
 3. Wednesday 4/11, 13:45-17:00
-4. Tuesday 10/11, 13:45-17:00
-5. Tuesday 8/12, 13:45-17:00
+4. Tuesday 9/11, 8:30-11:45
+5. Tuesday 10/11, 13:45-17:00
+
 
 ## Lecture videos for the course :
 
