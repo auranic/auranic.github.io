@@ -57,6 +57,15 @@ Schedule for the lectures:
 
 3. Lecture 'Dimensionality reduction'
 
+	3.1. [Introduction to dimensionality reduction](http://www.ihes.fr/~zinovyev/FundamentalsOfAI2020_lectures/Slides/Lecture3_1_DimRed_Intro.pdf)
+
+	3.2. [Principal Component Analysis](http://www.ihes.fr/~zinovyev/FundamentalsOfAI2020_lectures/Slides/Lecture3_2_PCA.pdf)
+
+	3.3. [Linear latent factor methods: ICA, NMF, FA](http://www.ihes.fr/~zinovyev/FundamentalsOfAI2020_lectures/Slides/Lecture3_3_ICA_NMF.pdf) 
+
+	3.4. [Multidimensional scaling](http://www.ihes.fr/~zinovyev/FundamentalsOfAI2020_lectures/Slides/Lecture3_3_ICA_NMF.pdf) 
+
+
 4. Lecture 'Manifold learning'
 
 5. Lecture 'Selected topics in unsupervised machine learning'
