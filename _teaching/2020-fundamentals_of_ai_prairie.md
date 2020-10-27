@@ -55,7 +55,7 @@ Schedule for the lectures:
 
 	2.5. [Assessment of clustering quality](https://www.youtube.com/watch?v=R2Xmodxp1_s) (31 mins)
 
-3. Lecture 'Dimensionality reduction'
+3. Lecture 'Dimensionality reduction' (slides only)
 
 	3.1. [Introduction to dimensionality reduction](http://www.ihes.fr/~zinovyev/FundamentalsOfAI2020_lectures/Slides/Lecture3_1_DimRed_Intro.pdf)
 
