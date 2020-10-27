@@ -17,7 +17,7 @@ Schedule for the lectures:
 1. Monday 21/09, 13:45-17:00
 2. Wednesday 07/10, 13:45-17:00
 3. Wednesday 4/11, 13:45-17:00
-4. Tuesday 9/11, 8:30-11:45
+4. Monday 9/11, 8:30-11:45
 5. Tuesday 10/11, 13:45-17:00
 
 
