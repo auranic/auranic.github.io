@@ -12,7 +12,7 @@ dates: "2020"
 
 The room for question-answer sessions and lectures: B113
 
-Schedule for the lectures:
+Schedule for the lectures/TDs:
 
 1. Monday 21/09, 13:45-17:00
 2. Wednesday 07/10, 13:45-17:00
@@ -55,13 +55,13 @@ Schedule for the lectures:
 
 	2.5. [Assessment of clustering quality](https://www.youtube.com/watch?v=R2Xmodxp1_s) (31 mins)
 
-3. Lecture 'Dimensionality reduction' (slides only)
+3. Lecture 'Dimensionality reduction' (Total duration 3 hours)
 
-	3.1. [Introduction to dimensionality reduction](http://www.ihes.fr/~zinovyev/FundamentalsOfAI2020_lectures/Slides/Lecture3_1_DimRed_Intro.pdf)
+	3.1. [Introduction to dimensionality reduction](https://www.youtube.com/watch?v=KIxX1MbKI88) (35 mins)
 
-	3.2. [Principal Component Analysis](http://www.ihes.fr/~zinovyev/FundamentalsOfAI2020_lectures/Slides/Lecture3_2_PCA.pdf)
+	3.2. [Principal Component Analysis](https://www.youtube.com/watch?v=YIFV97cxP-I) (64 mins)
 
-	3.3. [Linear latent factor methods: ICA, NMF, FA](http://www.ihes.fr/~zinovyev/FundamentalsOfAI2020_lectures/Slides/Lecture3_3_ICA_NMF.pdf) 
+	3.3. [Linear latent factor methods: ICA, NMF, FA](https://www.youtube.com/watch?v=DOPq3EOsJO8)  (70 mins)
 
 	3.4. [Multidimensional scaling](http://www.ihes.fr/~zinovyev/FundamentalsOfAI2020_lectures/Slides/Lecture3_3_ICA_NMF.pdf) 
 
@@ -73,3 +73,7 @@ Schedule for the lectures:
 In case you want to downloads all videos and watch locally, [download them here](http://www.ihes.fr/~zinovyev/FundamentalsOfAI2020_lectures/).
 
 [Lecture slides can be downloaded here](http://www.ihes.fr/~zinovyev/FundamentalsOfAI2020_lectures/Slides) 
+
+## Suggestion of exercises for the course :
+
+Read them [here](http://www.ihes.fr/~zinovyev/FundamentalsOfAI2020_lectures/Slides/IASD_Possible_TDs.pdf).
