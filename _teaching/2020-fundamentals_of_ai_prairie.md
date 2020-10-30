@@ -63,7 +63,7 @@ Schedule for the lectures/TDs:
 
 	3.3. [Linear latent factor methods: ICA, NMF, FA](https://www.youtube.com/watch?v=DOPq3EOsJO8)  (70 mins)
 
-	3.4. [Multidimensional scaling](http://www.ihes.fr/~zinovyev/FundamentalsOfAI2020_lectures/Slides/Lecture3_3_ICA_NMF.pdf) 
+	3.4. [Multidimensional scaling](http://www.ihes.fr/~zinovyev/FundamentalsOfAI2020_lectures/Slides/Lecture3_4_MDS.pdf) 
 
 
 4. Lecture 'Manifold learning'
