@@ -78,9 +78,9 @@ Schedule for the lectures/TDs:
 
 5. Lecture 'Selected topics in unsupervised machine learning'
 
-        5.1. Basic notions on high-dimensional geometry
+	5.1. Basic notions on high-dimensional geometry
 
-        5.2. Estimating the intrinsic dimensionality of data
+	5.2. Estimating the intrinsic dimensionality of data
 
 	5.3. Basic notions on information geometry
 
