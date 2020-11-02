@@ -63,12 +63,29 @@ Schedule for the lectures/TDs:
 
 	3.3. [Linear latent factor methods: ICA, NMF, FA](https://www.youtube.com/watch?v=DOPq3EOsJO8)  (70 mins)
 
-	3.4. [Multidimensional scaling](http://www.ihes.fr/~zinovyev/FundamentalsOfAI2020_lectures/Slides/Lecture3_4_MDS.pdf) 
+	3.4. [Multidimensional scaling](https://www.youtube.com/watch?v=LsdjBqx9-tI) (20 mins)
 
 
 4. Lecture 'Manifold learning'
 
+	4.1. Introduction to manifold learning
+
+	4.2. Methods with explicit manifold: SOM, Principal Curves, manifolds and graphs
+
+	4.3. t-SNE and UMAP
+
+	4.4. Neural network-based autoencoders
+
 5. Lecture 'Selected topics in unsupervised machine learning'
+
+        5.1. Basic notions on high-dimensional geometry
+
+        5.2. Estimating the intrinsic dimensionality of data
+
+	5.3. Basic notions on information geometry
+
+	5.4. Basic notions on optimal transport
+
 
 In case you want to downloads all videos and watch locally, [download them here](http://www.ihes.fr/~zinovyev/FundamentalsOfAI2020_lectures/).
 
