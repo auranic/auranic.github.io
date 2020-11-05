@@ -66,11 +66,11 @@ Schedule for the lectures/TDs:
 	3.4. [Multidimensional scaling](https://www.youtube.com/watch?v=LsdjBqx9-tI) (20 mins)
 
 
-4. Lecture 'Manifold learning' (slides only)
+4. Lecture 'Manifold learning'
 
-	4.1. [Introduction to manifold learning](http://www.ihes.fr/~zinovyev/FundamentalsOfAI2020_lectures/Slides/Lecture4_1_Manifold_Learning.pdf)
+	4.1. [Introduction to manifold learning](https://www.youtube.com/watch?v=K6UCnJzIfY0) (20 mins)
 
-	4.2. [Methods with explicit manifold: SOM, Principal Curves, manifolds and graphs](http://www.ihes.fr/~zinovyev/FundamentalsOfAI2020_lectures/Slides/Lecture4_2_SOM_PrCurves.pdf)
+	4.2. [Methods with explicit manifold: SOM, Principal Curves, manifolds and graphs](https://www.youtube.com/watch?v=MimAQeXZwfw) (70 mins)
 
 	4.3. [t-SNE and UMAP](http://www.ihes.fr/~zinovyev/FundamentalsOfAI2020_lectures/Slides/Lecture4_3_tSNE_UMAP.pdf)
 
