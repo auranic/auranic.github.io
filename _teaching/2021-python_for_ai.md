@@ -5,7 +5,7 @@ type: "Master 2 students, filiere Medecine Sciences"
 permalink: /teaching/2021-python_for_ai
 venue: "Universite Paris"
 location: "Cordeliers/online"
-date: "2021"
+dates: "2021"
 ---
 
 ## Information for students:
