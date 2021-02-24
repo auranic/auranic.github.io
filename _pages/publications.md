@@ -31,6 +31,12 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
       {% include archive-simple-publication.html %}
   {% endif %} {% endif %}
 {% endfor %}
+<h3>Peer-reviewed chapters</h3>
+{% for post in site.publications reversed %}
+  {% if post.year == 2020 %} {% if post.category == 'chapter' %}
+      {% include archive-simple-publication.html %}
+  {% endif %} {% endif %}
+{% endfor %}
 
 
 <h2>2019</h2>
