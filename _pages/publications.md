@@ -13,7 +13,21 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 <h2>2020</h2>
 {% for post in site.publications reversed %}
+  {% if post.year == 2021 %} {% if post.category == 'journal' %}
+      {% include archive-simple-publication.html %}
+  {% endif %} {% endif %}
+{% endfor %}
+
+
+<h2>2020</h2>
+{% for post in site.publications reversed %}
   {% if post.year == 2020 %} {% if post.category == 'journal' %}
+      {% include archive-simple-publication.html %}
+  {% endif %} {% endif %}
+{% endfor %}
+<h3>Peer-reviewed conference proceedings</h3>
+{% for post in site.publications reversed %}
+  {% if post.year == 2020 %} {% if post.category == 'conference' %}
       {% include archive-simple-publication.html %}
   {% endif %} {% endif %}
 {% endfor %}
