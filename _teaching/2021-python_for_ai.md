@@ -22,10 +22,10 @@ The course will be hold online, connection instructions will be sent by e-mail.
 0. Working Google account (required to access Colab)
 1. Understanding written English
 2. Basic level of programming
-3. Basic notions of Python
+3. Basic notions of Python (usefull links [1](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers)[2](https://wiki.python.org/moin/BeginnersGuide/Programmers)[3](https://www.w3resource.com/python-exercises/python-basic-exercises.php))
 4. Basic level in statistics
 5. Basic understanding of linear regression
-6. Basic understanding of building and validating machine learning models
+6. Basic understanding of building and validating machine learning models 
 
 ## Starting information and links
 
@@ -40,8 +40,3 @@ The course will be hold online, connection instructions will be sent by e-mail.
 2. Make your own copy of the notebook via Fichier/Enregistrer une copie dans Google Drive...
 3. Rename the notebook to "Python for AI, Lesson I, \<Your family name\>" where \<Your family name\> is your family name
 4. Share the notebook with andrei.zinovyev.u900@gmail.com with editing rights
-
-
-
-
-
