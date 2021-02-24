@@ -65,12 +65,6 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
       {% include archive-simple-publication.html %}
   {% endif %} {% endif %}
 {% endfor %}
-<h3>Unpublished preprints</h3>
-{% for post in site.publications reversed %}
-  {% if post.year == 2018 %} {% if post.category == 'preprint' %}
-      {% include archive-simple-publication.html %}
-  {% endif %} {% endif %}
-{% endfor %}
 
 
 <h2>2017</h2>
