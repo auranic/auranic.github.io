@@ -11,7 +11,7 @@ redirect_from:
 I am a permanent senior researcher working at <a href="http://www.curie.fr">Institut Curie</a> since 2005.
 
 I co-lead and coordinate scientific projects of <a href="http://sysbio.curie.fr">Computational Systems Biology of Cancer</a> team 
-inside <a href="https://science.institut-curie.org/research/integrated-biology/bioinformatics-biostatistics-epidemiology-and-computational-systems-biology-of-cancer/">Bioinformatics of Cancer department</a>.
+inside the <a href="https://science.institut-curie.org/research/integrated-biology/bioinformatics-biostatistics-epidemiology-and-computational-systems-biology-of-cancer/">Bioinformatics of Cancer department</a>.
 
 From 2019, I hold an interdisciplinary chair at <a href="https://prairie-institute.fr/">Prairie - PaRis Artificial Intelligence Research InstitutE</a>.
 PRAIRIE pursues fundamental research in core areas of AI as well as interdisciplinary work at its interface with sciences and applications.
@@ -26,12 +26,12 @@ After spending 3 years of post-doc in the French analogue of Advanced Studies In
 I got a permanent researcher position at <a href="http://curie.fr">Institut Curie</a> with a mission to participate in building and defining
 strategy of a new systems biology research group.
 
-I co-author about 100 peer-reviewed pubications, 3 books and 16 book chapters. 
+I co-author about 100 peer-reviewed publications, 3 books and 16 book chapters. 
 I (co-)supervised 10 PhD students.
 I am an active scientific software developer.
 I have rich experience of scientific and industrial collaborations. 
 I teach short courses on data integration and application of machine learning in cancer research. 
-I constantly participate in organization of courses, workshops and conferences.
+I constantly participate in the organization of courses, workshops and conferences.
 
 
 Computational Systems Biology of Cancer
@@ -45,7 +45,7 @@ Together we've developed <a href="https://sysbio.curie.fr/software.html">many op
 widely used by the academic community.
 
 
-Methodology of machine learning and artifical intelligence
+Methodology of machine learning and artificial intelligence
 ------
 
 Over the past 20 years, I've been developing new and improving existing methods of machine learning
@@ -55,7 +55,6 @@ we develop scalable tools for robust dimensionality reduction, applicable for da
 characterized by non-trivial complex structure and organization. 
 We introduced methods of <a href="https://www.sciencedirect.com/science/article/pii/S0893965906001856">topological graph grammars</a> and 
 <a href="https://www.researchgate.net/publication/271642170_Principal_Manifolds_for_Data_Visualisation_and_Dimension_Reduction_LNCSE_58">elastic principal trees and graphs</a>.
-Based on ideas from tropical mathematics, we develop a <a href="https://www.sciencedirect.com/science/article/pii/S0893608016301113">theory of piece-wise quadratic function approximation and optimization</a> which allows making many of existing machine learning methods faster and more robust to noise.
 We developed <a href="https://arxiv.org/abs/1901.06328">effective dimension estimates</a> based on data point separability properties. We study
 the phenomenon of <a href="https://royalsocietypublishing.org/doi/full/10.1098/rsta.2017.0237">"blessing of dimensionality"</a> for truely high-dimensional data distributions, and how it can be
 exploited for correcting legacy artificial intelligence systems without re-training them in real-life applications.
@@ -66,7 +65,7 @@ biomedicine; for example, from application of single-cell sequencing technology.
 Dealing with complexity of biological systems through mathematical modeling
 ------
 
-I have an extensive experience and long-term interest in the mechanistical modeling
+I have extensive experience and long-term interest in the mechanistic modeling
 of biological systems. My special focus is on how one can create realistic
 dynamic models of large biochemical networks.
 I have long-term interest in model reduction (reducing complexity of mathematical models).
