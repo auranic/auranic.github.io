@@ -31,12 +31,12 @@ td, th {
 
 ## Education
 
-* **2014:** Habilitation thesis (HDR, Habilitation ‡ diriger des recherches) in Biology, Department of Biology of …cole Normale SupÈrieure
+* **2014:** Habilitation thesis (HDR, Habilitation √† diriger des recherches) in Biology, Department of Biology of √âcole Normale Sup√©rieure
 Thesis title: *Dealing with complexity of biological systems: from data to models*
 * **2001:** PhD in Computer Science and Machine Learning, Krasnoyarsk State University:
 Thesis title: *Method of Elastic Maps for Data Visualization: Algorithms, Software and Applications in Bioinformatics*
 Scientific advisor: Professor [Alexander N. Gorban](https://www2.le.ac.uk/departments/mathematics/extranet/staff-material/staff-profiles/ag153)
-* **1998-2001** ñ PhD student, Institute of Computational Modeling, Krasnoyarsk, Russia
+* **1998-2001** ‚Äì PhD student, Institute of Computational Modeling, Krasnoyarsk, Russia
 * **1991-1997** - Master's diploma with distinction (highest grade in all disciplines), Krasnoyarsk State University (Physical Department), theoretical physics, cosmology
 
 ## Experience
@@ -47,17 +47,17 @@ Scientific advisor: Professor [Alexander N. Gorban](https://www2.le.ac.uk/depart
 * **2017-present** - Co-founder of the [Disease Maps International Community](https://disease-maps.org/team)
 * **2007-present** - scientific coordinator and co-lead (together with Emmanuel Barillot) of [Computational Systems Biology of Cancer](http://sysbio.curie.fr) team (interdisciplinary group of 15-20 post-docs and PhD students)
 * **2005-present** - permanent researcher at [Institut Curie](http://curie.fr) in Paris, INSERM U900
-* **2010-present** ñ supervisor of PhD projects (starting from 2014 as main supervisor)
-* **2006-present** ñ coordinating research projects, funded by EU, ANR, INCa, ITMO Cancer as local or principal coordinator
+* **2010-present** ‚Äì supervisor of PhD projects (starting from 2014 as main supervisor)
+* **2006-present** ‚Äì coordinating research projects, funded by EU, ANR, INCa, ITMO Cancer as local or principal coordinator
 * **2001-2004** - postdoc, project "Mathematics and Biology" ([Institut des Hautes Etudes Scientifiques](https://www.ihes.fr/), France), under supervision of Professor [M. Gromov](https://fr.wikipedia.org/wiki/Mikha%C3%AFl_Gromov)
 * **February-October 2000* - Project leader of ecological data analysis, sponsored by Krasnoyarsk Regional Scientific Fund
-* **1993-1999** ñ Scientific software developer, Siberian Institute of Gydrotechny and Melioration, Russia
+* **1993-1999** ‚Äì Scientific software developer, Siberian Institute of Gydrotechny and Melioration, Russia
 * **1993-1997** - Graduate student. Research work in the theory of gravitation and cosmology
 
 
 #### Industry
 
-* **2017-2020** ñ Consulting for machine learning and systems biology for a large cosmetics company client
+* **2017-2020** ‚Äì Consulting for machine learning and systems biology for a large cosmetics company client
 * **2002-2003** - Project leader, creation of a parallelized bioinformatics platform Plug&Blast for a cluster of processors, Artabel startup company, Orsay, France
 * **May-December 2001** - Principal software developer and a group leader, creation of an information system for automated access to world-wide patent databases, [SibTeCom](https://www.rusprofile.ru/id/10132797) Company, Krasnoyarsk, Russia
 * **1997-2001** - principal software developer. Creation of a book-keeping system for a computer seller company [KomPAK](http://www.kompak.ru/new/news/news.php), Krasnoyarsk, Russia
@@ -67,12 +67,12 @@ Scientific advisor: Professor [Alexander N. Gorban](https://www2.le.ac.uk/depart
 #### Teaching
 
 
-* **Spring 2021-now** ñ  Teaching yearly crash-course Introduction to Machine Learning at Machine Learning in Genomics M2 course, Paris-Dauphine University
-* **Spring 2021-now** ñ Teaching yearly 10 hours ëPython for AIí course, MÈdecine ñ Sciences, M2 students
-* **Fall 2020-now** ñ Teaching yearly 20 hours ëFundamentals of Machine Learningí course at University Paris Dauphine, PSL, M2 students
-* **September 2018-now** ñ Teaching yearly at [International FEBS/EMBO/Curie Course on Computational Systems Biology of Cancer](https://training.institut-curie.org/courses/sysbiocancer2021)
-* **2016,2017** ñ organization of the ìMathematical modeling of biological systemsî pre-doctoral teaching course at University Paris Sciences et Lettres, Institut de Technologie et d'Innovation.
-* **July 2015** ñ organization and teaching at 7 day course [Omics Data Analysis and Medical Applications](https://www.skoltech.ru/en/2015/07/omics-intensive-module/) for professional bioinformaticians and PhD students, Skoltech, Moscow, Russia.
+* **Spring 2021-now** ‚Äì  Teaching yearly crash-course Introduction to Machine Learning at Machine Learning in Genomics M2 course, Paris-Dauphine University
+* **Spring 2021-now** ‚Äì Teaching yearly 10 hours ‚ÄòPython for AI‚Äô course, M√©decine ‚Äì Sciences, M2 students
+* **Fall 2020-now** ‚Äì Teaching yearly 20 hours ‚ÄòFundamentals of Machine Learning‚Äô course at University Paris Dauphine, PSL, M2 students
+* **September 2018-now** ‚Äì Teaching yearly at [International FEBS/EMBO/Curie Course on Computational Systems Biology of Cancer](https://training.institut-curie.org/courses/sysbiocancer2021)
+* **2016,2017** ‚Äì organization of the ‚ÄúMathematical modeling of biological systems‚Äù pre-doctoral teaching course at University Paris Sciences et Lettres, Institut de Technologie et d'Innovation.
+* **July 2015** ‚Äì organization and teaching at 7 day course [Omics Data Analysis and Medical Applications](https://www.skoltech.ru/en/2015/07/omics-intensive-module/) for professional bioinformaticians and PhD students, Skoltech, Moscow, Russia.
 * **2012-now** - internal  teaching program of Institut Curie, modules related to analysis of high-throughput data in the context of biological networks.
 * **May 2011** - 40-hours course on computational systems biology, as a part of PhD program in Bioinformatics at Kazakh National University after Al-Farabi, Almaty, Kazakhstan.
 * **2009-now** - short course "Modeling and integrating high-throughput data in cancer research" at Ecole normale superieure as a part of "Biology of cellular systems" Master 2 course, Paris, France.
@@ -112,7 +112,7 @@ Scientific advisor: Professor [Alexander N. Gorban](https://www2.le.ac.uk/depart
     - **INVADE**: Mathematical modeling of early tumour invasion (December 2012-December 2015), 1000KEuros
     - **CoMET**: Modeling cell communication networks in breast cancer (2014-2017), 1000KEuros
 * As participant (delivering/reporting):
-    - **CASSIOPEA**: des mÈthodes diagnostiques et des thÈrapies totalement inÈdites dans les cancers du sein triple nÈgatif
+    - **CASSIOPEA**: des m√©thodes diagnostiques et des th√©rapies totalement in√©dites dans les cancers du sein triple n√©gatif
     - **PerMedCOE EU Horizon-2020**: Center of Excellence in Personalized Medicine (2020-2023), 5 Meuros
     - **PanNet EU TRANSCAN-2**: Predictive models of therapy response in pancreatic neuroendocrine tumors (2019-2022), 1.1Meuros
     - **PRECISE EU Horizon-2020**: Personalized Engine for Cancer Integrative Study and Evaluation (2015-2018), 3Meuros
@@ -146,12 +146,12 @@ Physical Biology, PNAS, Nature Communications, Genome Research, BMC Genomics, RN
 
 ## PhD theses (co-)supervision:
 
-1.	Loic Chadoutaud, ìSpatial and Temporal Heterogeneity of single cell transcriptomics dataî, 2021-2024
+1.	Loic Chadoutaud, ‚ÄúSpatial and Temporal Heterogeneity of single cell transcriptomics data‚Äù, 2021-2024
 2.	Aziz Fouche, "Integration of multi-level single cell molecular data to unravel the mechanisms of oncogene activation effect on cellular phenotypes", 2020-2023
-3.	Marco Ruscone, ì ModÈlisation multi-Èchelle de la progression du cancerî, 2021-2024
-4.	Jaydutt Bhalshankar, ìAnalyse bioinformatique intÈgrative de l'hÈtÈrogÈnÈitÈ intratumorale gÈnÈtique dans le neuroblastome ‡ un niveau cellule uniqueî, 2020-2023
+3.	Marco Ruscone, ‚Äú Mod√©lisation multi-√©chelle de la progression du cancer‚Äù, 2021-2024
+4.	Jaydutt Bhalshankar, ‚ÄúAnalyse bioinformatique int√©grative de l'h√©t√©rog√©n√©it√© intratumorale g√©n√©tique dans le neuroblastome √† un niveau cellule unique‚Äù, 2020-2023
 5.	Jonathan Bac, "Machine learning methods and tools to tackle the complexity of high-dimensional single cell datasets", 2019-2022
-6.	Stephanie Chevalier ìAutomatically design Boolean networks from static and dynamical knowledge on a biological system, to model processes such as cell differentiationî, 2019-2022
+6.	Stephanie Chevalier ‚ÄúAutomatically design Boolean networks from static and dynamical knowledge on a biological system, to model processes such as cell differentiation‚Äù, 2019-2022
 7.	Nicolas Sompairac, "Statistical modeling of tumor/microenvironment ecosystem to advance diagnostic and treatment", 2018-2021
 8.	Alexey Guerassimov, "Kinetic model of regulation of translation in eukaryotic cells", 2016-2018 (not finished)
 9.	Urszula Czerwinska, "Deconvolution of cell and environment specific signals and their interactions from complex mixtures in biological samples", 2015-2018
@@ -182,9 +182,9 @@ Physical Biology, PNAS, Nature Communications, Genome Research, BMC Genomics, RN
 
 see also the [list of my articles](https://pubmed.ncbi.nlm.nih.gov/?term=(Zinovyev%20A%5BAuthor%5D)%20OR%20Zynovyev%20A%5BAuthor%5D) in Pubmed
 
-1.	Zinovyev A, Sadovsky M, Calzone L, FouchÈ A, Groeneveld CS, Chervov A, Barillot E, Gorban AN. Modeling Progression of Single Cell Populations Through the Cell Cycle as a Sequence of Switches. Front Mol Biosci, 2022, https://doi.org/10.3389/fmolb.2021.793912.
+1.	Zinovyev A, Sadovsky M, Calzone L, Fouch√© A, Groeneveld CS, Chervov A, Barillot E, Gorban AN. Modeling Progression of Single Cell Populations Through the Cell Cycle as a Sequence of Switches. Front Mol Biosci, 2022, https://doi.org/10.3389/fmolb.2021.793912.
 2.	Amblard E, Bac J, Chervov A, Soumelis V, Zinovyev A. Hubness reduction improves clustering and trajectory inference in single-cell transcriptomic data. Bioinformatics. 2021 Nov 23:btab795.
-3.	NoÎl V, Ruscone M, Stoll G, Viara E, Zinovyev A, Barillot E, Calzone L. WebMaBoSS: A Web Interface for Simulating Boolean Models Stochastically. Front Mol Biosci. 2021 Nov 15;8:754444.
+3.	No√´l V, Ruscone M, Stoll G, Viara E, Zinovyev A, Barillot E, Calzone L. WebMaBoSS: A Web Interface for Simulating Boolean Models Stochastically. Front Mol Biosci. 2021 Nov 15;8:754444.
 4.	Bac J, Mirkes EM, Gorban AN, Tyukin I, Zinovyev A. Scikit-Dimension: A Python Package for Intrinsic Dimension Estimation. Entropy (Basel). 2021 Oct 19;23(10):1368.
 5.	Zinovyev A. Adaptation through the lens of single-cell multi-omics data: Comment on "Dynamic and thermodynamic models of adaptation" by A.N. Gorban et al. Phys Life Rev. 2021 Sep;38:132-134. doi: 10.1016/j.plrev.2021.05.004.
 6.	Rybnikova N, Portnov BA, Mirkes EM, Zinovyev A, Brook A, Gorban AN. Coloring Panchromatic Nighttime Satellite Images: Comparing the Performance of Several Machine Learning Methods. IEEE Transactions on Geoscience and Remote Sensing 2021, In press
@@ -215,8 +215,8 @@ see also the [list of my articles](https://pubmed.ncbi.nlm.nih.gov/?term=(Zinovy
 31.	Noronha A, Modamio J, Jarosz Y, Guerard E, Sompairac N, Preciat G, Danielsdottir AD, Krecke M, Merten D, Haraldsdottir HS, Heinken A, Heirendt L, Magnusdottir S, Ravcheev DA, Sahoo S, Gawron P, Friscioni L, Garcia B, Prendergast M, Puente A, Rodrigues M, Roy A, Rouquaya M, Wiltgen L, Zagare A, John E, Krueger M, Kuperstein I, Zinovyev A, Schneider R, Fleming RMT, Thiele I. The Virtual Metabolic Human database: integrating human and gut microbiome metabolism with nutrition and disease. 2019. Nucleic Acids Res. 47(D1):D614-D624.
 32.	Letort G, Montagud A, Stoll G, Heiland R, Barillot E, Macklin P, Zinovyev A, Calzone L. PhysiBoSS: a multi-scale agent-based modelling framework integrating physical dimension and cell signalling. 2019. Bioinformatics 35(7):1188-1196
 33.	Nazarov PL, Wienecke-Baldacchino AK, Zinovyev A, Czerwinska U, Muller A, Nashan D, Dittmar G, Azuaje F, Kreis S. Deconvolution of transcriptomes and miRNomes by independent component analysis provides insights into biological processes and clinical outcomes of melanoma patients.. 2019. BMC Medical Genomics 12(1):132.
-34.	Levy N, Naldi A, Hernandez C, Stoll G, Thieffry D, Zinovyev A, Calzone L, PaulevÈ L. Prediction of Mutations to Control Pathways Enabling Tumor Cell Invasion with the CoLoMoTo Interactive Notebook (Tutorial). 2018. Front Physiol 9:787.
-35.	Naldi A, Hernandez C, Levy N, Stoll G, Monteiro PT, Chaouiya C, Helikar T, Zinovyev A, Calzone L, Cohen-Boulakia S, Thieffry D, PaulevÈ L. The CoLoMoTo Interactive Notebook: Accessible and Reproducible Computational Analyses for Qualitative Biological Networks. 2018. Front Physiol 9:680.
+34.	Levy N, Naldi A, Hernandez C, Stoll G, Thieffry D, Zinovyev A, Calzone L, Paulev√© L. Prediction of Mutations to Control Pathways Enabling Tumor Cell Invasion with the CoLoMoTo Interactive Notebook (Tutorial). 2018. Front Physiol 9:787.
+35.	Naldi A, Hernandez C, Levy N, Stoll G, Monteiro PT, Chaouiya C, Helikar T, Zinovyev A, Calzone L, Cohen-Boulakia S, Thieffry D, Paulev√© L. The CoLoMoTo Interactive Notebook: Accessible and Reproducible Computational Analyses for Qualitative Biological Networks. 2018. Front Physiol 9:680.
 36.	Calzone L, Barillot E, Zinovyev A. Logical versus kinetic modeling of biological networks: applications in cancer research. Current Opinion in Chemical Engineering 21, 22-31.
 37.	Mazein A, Ostaszewski M, Kuperstein I, Watterson S, Le Novere N, Lefaudeux D, De Meulder B, Pellet J, Balaur I, Saqi M, Nogueira MM, He F, Parton A, Lemonnier N, Gawron P, Gebel S, Hainaut P, Ollert M, Dogrusoz U, Barillot E, Zinovyev A, Schneider R, Balling R, Auffray C. Systems medicine disease maps: community-driven comprehensive representation of disease mechanisms. NPJ systems biology and applications 4 (1), 21
 38.	Monraz Gomez LC, Kondratova M, Ravel JM, Barillot E, Zinovyev A, Kuperstein I. Application of Atlas of Cancer Signalling Network in preclinical studies. Brief Bioinform. 2018 May 3.
@@ -224,7 +224,7 @@ see also the [list of my articles](https://pubmed.ncbi.nlm.nih.gov/?term=(Zinovy
 40.	Kondratova M, Sompairac N, Barillot E, Zinovyev A, Kuperstein I. Signalling maps in cancer research: construction and data analysis. Database (Oxford). 2018 Jan 1;2018.
 41.	Lages J., Shepelyansky D., Zinovyev A. Inferring hidden causal relations between pathway members using reduced Google matrix of directed biological networks. 2018. PLoS One 13(1):e0190812.
 42.	Costa A.,Kieffer Y., Scholer-Dahirel A., Pelon F., Bourachot B., Cardon M., Sirven P., Magagna I., Fuhrmann L., Bernard C., Bonneau C., Kondratova M., Kuperstein I., Zinovyev A., Givel A.-M., Parrini M.-C., Soumelis V., Vincent-Salomon A., Mechta-Grigoriou F. Fibroblast heterogeneity and immunosuppressive environment in human breast cancer. 2018. Cancer Cell 33(3):463-479.e10.
-43.	Cantini L, Calzone L, Martignetti L, Rydenfelt M, Bl¸thgen N, Barillot E, Zinovyev A. Classification of gene signatures for their information value and functional redundancy. NPJ Syst Biol Appl. 4:2. 2017.
+43.	Cantini L, Calzone L, Martignetti L, Rydenfelt M, Bl√ºthgen N, Barillot E, Zinovyev A. Classification of gene signatures for their information value and functional redundancy. NPJ Syst Biol Appl. 4:2. 2017.
 44.	Montagud A, Traynard P, Martignetti L, Bonnet E, Barillot E, Zinovyev A, Calzone L. Conceptual and computational framework for logical modelling of biological networks deregulated in diseases. Brief Bioinform. doi: 10.1093/bib/bbx163. 2017.
 45.	Azencott CA, Aittokallio T, Roy S; DREAM Idea Challenge Consortium, Norman T, Friend S, Stolovitzky G, Goldenberg A. The inconvenience of data of convenience: computational research beyond post-mortem analyses. Nat Methods 14(10):937-938. 2017.
 46.	Kairov U, Cantini L, Greco A, Molkenov A, Czerwinska U, Barillot E, Zinovyev A. Determining the optimal number of independent components for reproducible transcriptomic data analysis. BMC Genomics 18(1):712. 2017.
@@ -320,7 +320,7 @@ see also the [list of my articles](https://pubmed.ncbi.nlm.nih.gov/?term=(Zinovy
 
 ### Peer-reviewed proceedings of conferences
 
-1.	Buffard M., Desoeuvres A., Naldi A., RequilÈ C., Zinovyev A., Radulescu O. (2021) LNetReduce: Tool for Reducing Linear Dynamic Networks with Separated Timescales. In: Cinquemani E., PaulevÈ L. (eds) Computational Methods in Systems Biology. CMSB 2021. Lecture Notes in Computer Science, vol 12881. Springer, Cham. https://doi.org/10.1007/978-3-030-85633-5_15
+1.	Buffard M., Desoeuvres A., Naldi A., Requil√© C., Zinovyev A., Radulescu O. (2021) LNetReduce: Tool for Reducing Linear Dynamic Networks with Separated Timescales. In: Cinquemani E., Paulev√© L. (eds) Computational Methods in Systems Biology. CMSB 2021. Lecture Notes in Computer Science, vol 12881. Springer, Cham. https://doi.org/10.1007/978-3-030-85633-5_15
 2.	Chervov A., Zinovyev A. Clinical trajectories estimated from bulk tumoral molecular profiles using elastic principal trees. Proceedings of International Joint Conference on Neural Networks, Online, 18-22 July 2021.
 3.	Bac J, Zinovyev A. Local intrinsic dimensionality estimators based on concentration of measure. Proceedings of International Joint Conference on Neural Networks, UK, Glasgow, 18-24 July 2020.
 4.	Albergante A, Bac J, Zinovyev A. Estimating the effective dimension of large biological datasets using Fisher separability analysis. Proceedings of International Joint Conference on Neural Networks, Budapest, Hungary, 14-17 July 2019.
@@ -354,90 +354,90 @@ See the list in [arXiv](https://arxiv.org/find/all/1/all:+zinovyev/0/1/0/all/0/1
 
 ## Invited talks and special sessions
 
-ï  High-dimensional geometry of complex molecular data. Plenary talk at Baltic forum on neuroscience and artificial intelligence and complex systems,
+‚Ä¢  High-dimensional geometry of complex molecular data. Plenary talk at Baltic forum on neuroscience and artificial intelligence and complex systems,
 11/09/2021, Kaliningrad, Russia
-ï  Random walks in biological networks. Keynote talk at French regional conference on complex systems, 27/05/2021, online event
-ï  Artificial Intelligence in Biomedicine. Keynote talk at TRANSYS summer school (online meeting), 24 November 2020
-ï  Biological networks help unraveling tumoral heterogeneity at single cell level. Talk at BIONETVISA workshop at ECCB-2018, 9 September 2018, Athens, Greece
-ï  Reduced Google Matrix approach for exploring biological networks. Invited talk at Google Matrix: theory and applications conference. 18 October 2018, IHES, Bures-sur-Yvette
-ï  Deconvolution of heterogeneous cancer omics data. Talk at 1st International Course on Computational Systems Biology of Cancer, Paris, 25 September 2018
-ï  Machine learning methods in molecular biology: unsupervised approach. Invited talk at Lobachevsky University, Nizhniy Novgorod, Russia,9 August 2018
-ï  Quantifying intratumoral heterogeneity at single cell level. Invited seminar for Lecture Series Translational Bioinformatics & Systems Biomedicine, Luxemburg Institute of Health, 26 June 2018
-ï  Modern Biomedical Omics Data Visualization. Genopole Summer School, Paris, 25 June 2018
-ï  Use of network propagation methods in cancer data analysis. Network Medicine workshop at Network Science conference, Paris, 22 May 2018
-ï  Independent Component Analysis unravels molecular mechanisms of Ewing sarcoma. IHP-Curie seminar, Paris, 17 May 2018
-ï  Multiscale integrative modeling of early tumour invasion mechanisms. ITMO SysBio seminar, 26 February 2018
-ï  Single cell molecular pro?ling to understand cancerogenesis. Keynote talk at Workshop Computational Systems Biology for Cancer, Institut des SystËmes Complexes, Paris, 24-26 January 2018.
-ï  Nontrivial geometry of omics data used for obtaining insights into biology. Curie-IHES-IHP seminar on mathematical biology, 20 February 2018.
-ï  InfoSigMap: Google Maps of informative gene signatures visualizes their compositional and functional redundancies in transcriptomic studies. Invited talk at Cancer Science Institute, Singapore, 21 March 2017.
-ï  Deconvoluting cancer omics data using independent component analysis. Institututional seminar of Luxembourg Institute of Health, 5 October 2017, Luxembourg
-ï  Disease maps for mathematical modeling: encyclopedia or blueprint? 2nd Disease Maps consortium meeting. 3 October 2017, Luxembourg
-ï  Network propagation for cancer data analysis. Invited talk at Interdisciplinary Signaling Workshop. 19 July 2017, Visegrad
-ï  Systems Biology as a field of science in the last and the future 15 years. Invited talk at DC Biol Labex course, 14 March 2017
-ï  The shortest path is not the one you know: application of biological networks in precision oncology research', Invited talk at Kyoto University, Ogata lab, 13 December 2016, Kyoto, Japan
-ï  Mathematical modeling of biological networks helps finding genetic determinants of metastatic colon cancer', Invited talk at Osaka University, Mariko Okada lab, 12 December 2016, Osaka, Japan.
-ï  Disentangling bladder cancer progression pathways by pan-cancer deconvolution of tumoral transcriptomes', Invited talk at RIKEN, Carnici lab, 6 December 2016, Yokohama, Japan
-ï  Detecting and exploiting nontrivial geometrical omics data structures for obtaining insights into cancer biology ', Curie-SBI workshop, 7 December 2016, Tokyo, Japan
-ï  Detecting non-trivial geometrical data structures in cancer omics data', 7 November 2016, Invited talk at the Mathematical Biology seminar of Institut des Hautes …tudes Scientifiques, Bures-sur-Yvette.
-ï  Mathematical modeling of molecular pathways enabling tumor cell invasion and migration Conference "Mathematical modeling and cancer", 2 December 2015, Montpellier.
-ï  Identifying the Functional Interaction Between p53 and Notch pathways in Triggering Metastasis: From Maps to Data to Models. Mini-simposium at Cancer Science Institute, Singapore, November 26, 2015.
-ï  Atlas of Cancer Signaling Network and NaviCell: Google Maps of cancer biology. 16th International Conference of Systems Biology, Singapore, November 25, 2015
-ï  Atlas of Cancer Signaling Network and NaviCell. 16th International Conference of Systems Biology (ICSB)BioNetVisA workshop, Singapore, November 25, 2015
-ï  Utilisation des outils gÈnomiques dans la prise en charge des cancers du sein du point de vue du bio-informaticien. 37es JournÈes de la sociÈtÈ franÁaise de sÈnologie et de pathologie mammaire, Bordeaux, 11 November 2015.
-ï  Gene Networks and Omics Data Visualization. Thematic School "Analysis of Tumoral Genome", 03 November 2015.
-ï  Blind source deconvolution of omics data in cancer studies. Institut Curie Research Center Scientific Day, 30 October 2015.
-ï  Independent Component Analysis Uncovers the Landscape of the Bladder Tumor Transcriptome and Reveals Insights into Luminal and Basal Subtypes. Selected talk, highlight track, ISMB 2015, Dublin, 13 July 2015
-ï  Modern methods for visualization and exploratory analysis of omics data, Omics data analysis in medicine summer school, 21 July 2015, Skolkovo, Russia
-ï  Mathematical modeling of biological processes using omics data, Omics data analysis in medicine summer school, 24 July 2015, Skolkovo, Russia
-ï  Revealing mechanisms of cancer progression by pan-cancer deconvolution of tumoral transcriptomes, 17 July 2015, Moscow Conference on Computational Molecular Biology (MCCMB-2015), Russia
-ï  Towards mathematical modelling of the signalling network downstream of EWS/FLI-1, ASSET-ENCCA Ewing meeting, Paris, 15-16 June 2015
-ï  Atlas of Cancer Signaling Network and NaviCell: Google Maps of cancer biology", Invited talk, The Genome Analysis Center, Norwich, 21 May 201
-ï  Pan-cancer deconvolution of tumoral transcriptomes reveals new mechanisms of bladder cancerogenesis, 2nd International Conference on Personalized Medicine and Global Health, Astana, Kazakhstan, 13 May 2015
-ï  Mathematical modeling of biological networks helps finding genetic determinants of metastatic colon cancer. Invited talk at the seminar of Oncology department, Oxford University. 22 January 2015.
-ï  Fighting with complexity of biological systems, Model Reduction across disciplines, Leicester, UK, 19-22 August 2014.
-ï  Mathematical aspects of cancer biology. Invited seminar at Vavilov Institute of General Genetics, Moscow, Russia, 22 January 2014.
-ï  Looking at Big Data in cancer biology: make it simple. Invited talk at University College of Cork, Ireland, 19 November 2013.
-ï  Mathematical modeling of cancer-related molecular mechanisms. Invited talk at COMBINE2013. Institut Curie, Paris. 16 September 2013.
-ï  Computational analyses of synthetic lethality in DNA repair pathways with application to cancer treatment, International Conference of Systems Biology-2013, Copenhagen, 2 September 2013.
-ï  Mechanisms of genetic interactions and cancer treatment, Moscow Conference on Computational Molecular Biology-2013, Moscow, 28 July 2013.
-ï  Cancer biology questions asked in a mathematical language, Keynote talk at "Mathematics and Cancer biology" conference, Institut Curie, Paris, 12 June 2013
-ï  Kinetic signatures of miRNA modes of action, Invited talk at "Mechanisms of microRNA action" workshop, University of Leicester, Leicester, 7 November 2012.
-ï  Systems biology, treatment of cancer and the future of medicine. Invited talk given in Siberian Federal University, Krasnoyarsk, July 2012.
-ï  Network Interpretation And Meta-Analysis Of Independent Components Applied To Cancer Transcriptomes. Bioinformatics of Genome Regulation and Structure/Systems Biology' 2012. Novosibirsk, June 2012.
-ï  Synthetic lethality within one pathway: DNA repair and cancer treatment. Bioinformatics of Genome Regulation and Structure/Systems Biology' 2012. Novosibirsk, June 2012.
-ï  Modelling life and death cellular decisions in cancer. Dynamics of disease-2011, Manchester, 14-18 February 2011.
-ï  Mathematical modelling of cell death and life decisions in cancer. Invited talk at BioIntelligence consortium's simposium. 04 July 2011, Nice.
-ï  Model reduction for modeling in systems biology. 30 May 2011, Invited talk at Prof. Hans Westerhoff's group seminar. Faculty of Biology, Vrije Universiteit, Amsterdam.
-ï  Modelling life and death cellular decisions in cancer. 20 May 2011. BioTech center seminar, Astana, Kazakhstan.
-ï  High-throughput sequencing for better understanding cancer: ChIP-Seq technology for studying Ewing's sarcoma. 19 May 2011. BioTech center seminar, Astana, Kazakhstan.
-ï  BioUML: a plug-in for model reduction. July 23rd 2011, MCCMB'11, Moscow, Russia.
-ï  Deciphering mechanisms of miRNA action on translation by mathematical modeling. July 24th 2011. MCCMB'11, Moscow, Russia.
-ï  Mathematical modeling of cellular decisions between life and death in cancer. Invited talk at Cell Singalomics-2011, Luxembourg, 26-28 January 2011.
-ï  Non-linear principal manifolds for bioinformatics applications. ERCIM conference, London, UK, 9-12 December 2010.
-ï  Mathematical modeling of cell life and death in cancer. Invited talk at International Conference on Systems Biology (ICSB-2010), 11 October 2010, Edinburgh, UK.
-ï  BiNoM - a Cytoscape plugin for analysis of biological networks using systems biology standards. Computational Modeling of Biological Networks (COMBINE) meeting. 08 October 2010, Edinburgh, UK.
-ï  Next generation sequencing for better understanding cancer. Invited talk at Seminar of the Bioinformatics Center of Jena University. 23 September 2010, Jena, Germany.
-ï  Dynamical modeling of microRNA mechanisms. 7th International conference on Bioinformatics of genome regulation and structure (BGRS'2010). June 2010, Novosibirsk, Russia.
-ï  Chip-Seq technology for studying Ewing's sarcoma. "Bioinformatics after Next Generation Sequencing" French-Russian seminar, June 2010, Zvenigorod, Russia.
-ï  Dynamical modeling of microRNA effect on translation. 4th Joint Cold Spring Harbor/Wellcome Trust conference "Computational Cell Biology". February 2010, Hinxton, UK.
-ï  What in silico models can give to biology and clinics? Invited presentation at "Chez Claudius" meeting on 11 March 2010. Institut Curie, Paris, France.
-ï  Principal Manifolds And Graphs In Practice: From Molecular Biology To Dynamical Systems. Coping with Complexity: Model Reduction and Data Analysis" workshop at "Algorithms for Approximation VI", 1 September 2009, University of Cumbria, UK.
-ï  Finding Meaningfull Structures In High-Throughput Data: From Principal Trees To Spectral Filtering On Graphs. Moscow Conference on Computational Molecular Biology-2009, 20-25 July 2009, Moscow, Russia.
-ï  Robust simplifications of multiscale biochemical networks. International Conference of Intelligent Systems for Molecular Biology (ECCB/ISMB 2009) 1 July 2009, Stokholm, Sweden.
-ï  Unsupervised machine learning in the analysis of high-throughput data for systems biology. Invited talk at Systems Biology for Medical Applications Summer School 29 Sept-03 Oct 2008, Tenerife, Spain.
-ï  BiNoM: a tool for manipulating and analysis of biological networks. Invited talk at International Conference on Systems Biology Workshop 'Web-services in Systems Biology'. 28 August 2008, Gotenborg, Sweden.
-ï  Method For Complexity Reduction And Model Comparison With Application To Nfkb Signalling. The Sixth International Conference on Bioinformatics of Genome Regulation and Structure. 24 July 2008, Russia, Novosibirsk, Russia.
-ï  How much non-coding DNA do eukaryotes require? Invited talk at Think Tank in Systems Biology "Statistical semantics of genomes: from sequence to function". 27 May 2008, Evry, France.
-ï  Projects and tools for systems biology at Curie Institute. EAST-SCOPE conference, 3-4 December 2007, Moscow, Russia.
-ï  Frequency dictionaries and genome grammars. Invited talk at Repetitive DNA in the Genomic Era 14 Nov 2007, Leicester, UK.
-ï  Elastic principal graphs and topological grammars for data approximation. Bell Labs Research seminar, 23 March 2007, New Jersey, USA.
-ï  Ewing tumor as a model for systems biology. Journees Scientifiques et Medicales 2007. 9 Fevrier 2007, Paris.
-ï  Codons, Genes and Networks: multiple scales in genomic organization. Theoretical Approaches for Genome (10 Novembre 2006) Annecy, France.
-ï  Spectral analysis of gene expression profiles using gene networks. Bioinformatics of genome regulation and structure BGRS-2006 (July 16-22, 2006, Novosibirsk)
-ï  Elastic maps and its applications in bioinformatics. Principal manifolds for data cartography and dimension reduction. Leicester, UK. August, 2006.
-ï  Seven clusters and four types of symmetry in microbial genomes. Geometry of Genome: Unravelling of Structures Hidden in Genomic Sequences, Leicester, UK, 2005.
-ï  Codon bias vector field. Geometry of Genome: Unravelling of Structures Hidden in Genomic Sequences, Leicester, UK, 2005.
-ï  Elastic maps method and its applications in data visualization. VIII National scientific conference 'Neuroinformatics and its applications'. Krasnoyarsk, Russia, 2000.
+‚Ä¢  Random walks in biological networks. Keynote talk at French regional conference on complex systems, 27/05/2021, online event
+‚Ä¢  Artificial Intelligence in Biomedicine. Keynote talk at TRANSYS summer school (online meeting), 24 November 2020
+‚Ä¢  Biological networks help unraveling tumoral heterogeneity at single cell level. Talk at BIONETVISA workshop at ECCB-2018, 9 September 2018, Athens, Greece
+‚Ä¢  Reduced Google Matrix approach for exploring biological networks. Invited talk at Google Matrix: theory and applications conference. 18 October 2018, IHES, Bures-sur-Yvette
+‚Ä¢  Deconvolution of heterogeneous cancer omics data. Talk at 1st International Course on Computational Systems Biology of Cancer, Paris, 25 September 2018
+‚Ä¢  Machine learning methods in molecular biology: unsupervised approach. Invited talk at Lobachevsky University, Nizhniy Novgorod, Russia,9 August 2018
+‚Ä¢  Quantifying intratumoral heterogeneity at single cell level. Invited seminar for Lecture Series Translational Bioinformatics & Systems Biomedicine, Luxemburg Institute of Health, 26 June 2018
+‚Ä¢  Modern Biomedical Omics Data Visualization. Genopole Summer School, Paris, 25 June 2018
+‚Ä¢  Use of network propagation methods in cancer data analysis. Network Medicine workshop at Network Science conference, Paris, 22 May 2018
+‚Ä¢  Independent Component Analysis unravels molecular mechanisms of Ewing sarcoma. IHP-Curie seminar, Paris, 17 May 2018
+‚Ä¢  Multiscale integrative modeling of early tumour invasion mechanisms. ITMO SysBio seminar, 26 February 2018
+‚Ä¢  Single cell molecular pro?ling to understand cancerogenesis. Keynote talk at Workshop Computational Systems Biology for Cancer, Institut des Syst√®mes Complexes, Paris, 24-26 January 2018.
+‚Ä¢  Nontrivial geometry of omics data used for obtaining insights into biology. Curie-IHES-IHP seminar on mathematical biology, 20 February 2018.
+‚Ä¢  InfoSigMap: Google Maps of informative gene signatures visualizes their compositional and functional redundancies in transcriptomic studies. Invited talk at Cancer Science Institute, Singapore, 21 March 2017.
+‚Ä¢  Deconvoluting cancer omics data using independent component analysis. Institututional seminar of Luxembourg Institute of Health, 5 October 2017, Luxembourg
+‚Ä¢  Disease maps for mathematical modeling: encyclopedia or blueprint? 2nd Disease Maps consortium meeting. 3 October 2017, Luxembourg
+‚Ä¢  Network propagation for cancer data analysis. Invited talk at Interdisciplinary Signaling Workshop. 19 July 2017, Visegrad
+‚Ä¢  Systems Biology as a field of science in the last and the future 15 years. Invited talk at DC Biol Labex course, 14 March 2017
+‚Ä¢  The shortest path is not the one you know: application of biological networks in precision oncology research', Invited talk at Kyoto University, Ogata lab, 13 December 2016, Kyoto, Japan
+‚Ä¢  Mathematical modeling of biological networks helps finding genetic determinants of metastatic colon cancer', Invited talk at Osaka University, Mariko Okada lab, 12 December 2016, Osaka, Japan.
+‚Ä¢  Disentangling bladder cancer progression pathways by pan-cancer deconvolution of tumoral transcriptomes', Invited talk at RIKEN, Carnici lab, 6 December 2016, Yokohama, Japan
+‚Ä¢  Detecting and exploiting nontrivial geometrical omics data structures for obtaining insights into cancer biology ', Curie-SBI workshop, 7 December 2016, Tokyo, Japan
+‚Ä¢  Detecting non-trivial geometrical data structures in cancer omics data', 7 November 2016, Invited talk at the Mathematical Biology seminar of Institut des Hautes √âtudes Scientifiques, Bures-sur-Yvette.
+‚Ä¢  Mathematical modeling of molecular pathways enabling tumor cell invasion and migration Conference "Mathematical modeling and cancer", 2 December 2015, Montpellier.
+‚Ä¢  Identifying the Functional Interaction Between p53 and Notch pathways in Triggering Metastasis: From Maps to Data to Models. Mini-simposium at Cancer Science Institute, Singapore, November 26, 2015.
+‚Ä¢  Atlas of Cancer Signaling Network and NaviCell: Google Maps of cancer biology. 16th International Conference of Systems Biology, Singapore, November 25, 2015
+‚Ä¢  Atlas of Cancer Signaling Network and NaviCell. 16th International Conference of Systems Biology (ICSB)BioNetVisA workshop, Singapore, November 25, 2015
+‚Ä¢  Utilisation des outils g√©nomiques dans la prise en charge des cancers du sein du point de vue du bio-informaticien. 37es Journ√©es de la soci√©t√© fran√ßaise de s√©nologie et de pathologie mammaire, Bordeaux, 11 November 2015.
+‚Ä¢  Gene Networks and Omics Data Visualization. Thematic School "Analysis of Tumoral Genome", 03 November 2015.
+‚Ä¢  Blind source deconvolution of omics data in cancer studies. Institut Curie Research Center Scientific Day, 30 October 2015.
+‚Ä¢  Independent Component Analysis Uncovers the Landscape of the Bladder Tumor Transcriptome and Reveals Insights into Luminal and Basal Subtypes. Selected talk, highlight track, ISMB 2015, Dublin, 13 July 2015
+‚Ä¢  Modern methods for visualization and exploratory analysis of omics data, Omics data analysis in medicine summer school, 21 July 2015, Skolkovo, Russia
+‚Ä¢  Mathematical modeling of biological processes using omics data, Omics data analysis in medicine summer school, 24 July 2015, Skolkovo, Russia
+‚Ä¢  Revealing mechanisms of cancer progression by pan-cancer deconvolution of tumoral transcriptomes, 17 July 2015, Moscow Conference on Computational Molecular Biology (MCCMB-2015), Russia
+‚Ä¢  Towards mathematical modelling of the signalling network downstream of EWS/FLI-1, ASSET-ENCCA Ewing meeting, Paris, 15-16 June 2015
+‚Ä¢  Atlas of Cancer Signaling Network and NaviCell: Google Maps of cancer biology", Invited talk, The Genome Analysis Center, Norwich, 21 May 201
+‚Ä¢  Pan-cancer deconvolution of tumoral transcriptomes reveals new mechanisms of bladder cancerogenesis, 2nd International Conference on Personalized Medicine and Global Health, Astana, Kazakhstan, 13 May 2015
+‚Ä¢  Mathematical modeling of biological networks helps finding genetic determinants of metastatic colon cancer. Invited talk at the seminar of Oncology department, Oxford University. 22 January 2015.
+‚Ä¢  Fighting with complexity of biological systems, Model Reduction across disciplines, Leicester, UK, 19-22 August 2014.
+‚Ä¢  Mathematical aspects of cancer biology. Invited seminar at Vavilov Institute of General Genetics, Moscow, Russia, 22 January 2014.
+‚Ä¢  Looking at Big Data in cancer biology: make it simple. Invited talk at University College of Cork, Ireland, 19 November 2013.
+‚Ä¢  Mathematical modeling of cancer-related molecular mechanisms. Invited talk at COMBINE2013. Institut Curie, Paris. 16 September 2013.
+‚Ä¢  Computational analyses of synthetic lethality in DNA repair pathways with application to cancer treatment, International Conference of Systems Biology-2013, Copenhagen, 2 September 2013.
+‚Ä¢  Mechanisms of genetic interactions and cancer treatment, Moscow Conference on Computational Molecular Biology-2013, Moscow, 28 July 2013.
+‚Ä¢  Cancer biology questions asked in a mathematical language, Keynote talk at "Mathematics and Cancer biology" conference, Institut Curie, Paris, 12 June 2013
+‚Ä¢  Kinetic signatures of miRNA modes of action, Invited talk at "Mechanisms of microRNA action" workshop, University of Leicester, Leicester, 7 November 2012.
+‚Ä¢  Systems biology, treatment of cancer and the future of medicine. Invited talk given in Siberian Federal University, Krasnoyarsk, July 2012.
+‚Ä¢  Network Interpretation And Meta-Analysis Of Independent Components Applied To Cancer Transcriptomes. Bioinformatics of Genome Regulation and Structure/Systems Biology' 2012. Novosibirsk, June 2012.
+‚Ä¢  Synthetic lethality within one pathway: DNA repair and cancer treatment. Bioinformatics of Genome Regulation and Structure/Systems Biology' 2012. Novosibirsk, June 2012.
+‚Ä¢  Modelling life and death cellular decisions in cancer. Dynamics of disease-2011, Manchester, 14-18 February 2011.
+‚Ä¢  Mathematical modelling of cell death and life decisions in cancer. Invited talk at BioIntelligence consortium's simposium. 04 July 2011, Nice.
+‚Ä¢  Model reduction for modeling in systems biology. 30 May 2011, Invited talk at Prof. Hans Westerhoff's group seminar. Faculty of Biology, Vrije Universiteit, Amsterdam.
+‚Ä¢  Modelling life and death cellular decisions in cancer. 20 May 2011. BioTech center seminar, Astana, Kazakhstan.
+‚Ä¢  High-throughput sequencing for better understanding cancer: ChIP-Seq technology for studying Ewing's sarcoma. 19 May 2011. BioTech center seminar, Astana, Kazakhstan.
+‚Ä¢  BioUML: a plug-in for model reduction. July 23rd 2011, MCCMB'11, Moscow, Russia.
+‚Ä¢  Deciphering mechanisms of miRNA action on translation by mathematical modeling. July 24th 2011. MCCMB'11, Moscow, Russia.
+‚Ä¢  Mathematical modeling of cellular decisions between life and death in cancer. Invited talk at Cell Singalomics-2011, Luxembourg, 26-28 January 2011.
+‚Ä¢  Non-linear principal manifolds for bioinformatics applications. ERCIM conference, London, UK, 9-12 December 2010.
+‚Ä¢  Mathematical modeling of cell life and death in cancer. Invited talk at International Conference on Systems Biology (ICSB-2010), 11 October 2010, Edinburgh, UK.
+‚Ä¢  BiNoM - a Cytoscape plugin for analysis of biological networks using systems biology standards. Computational Modeling of Biological Networks (COMBINE) meeting. 08 October 2010, Edinburgh, UK.
+‚Ä¢  Next generation sequencing for better understanding cancer. Invited talk at Seminar of the Bioinformatics Center of Jena University. 23 September 2010, Jena, Germany.
+‚Ä¢  Dynamical modeling of microRNA mechanisms. 7th International conference on Bioinformatics of genome regulation and structure (BGRS'2010). June 2010, Novosibirsk, Russia.
+‚Ä¢  Chip-Seq technology for studying Ewing's sarcoma. "Bioinformatics after Next Generation Sequencing" French-Russian seminar, June 2010, Zvenigorod, Russia.
+‚Ä¢  Dynamical modeling of microRNA effect on translation. 4th Joint Cold Spring Harbor/Wellcome Trust conference "Computational Cell Biology". February 2010, Hinxton, UK.
+‚Ä¢  What in silico models can give to biology and clinics? Invited presentation at "Chez Claudius" meeting on 11 March 2010. Institut Curie, Paris, France.
+‚Ä¢  Principal Manifolds And Graphs In Practice: From Molecular Biology To Dynamical Systems. Coping with Complexity: Model Reduction and Data Analysis" workshop at "Algorithms for Approximation VI", 1 September 2009, University of Cumbria, UK.
+‚Ä¢  Finding Meaningfull Structures In High-Throughput Data: From Principal Trees To Spectral Filtering On Graphs. Moscow Conference on Computational Molecular Biology-2009, 20-25 July 2009, Moscow, Russia.
+‚Ä¢  Robust simplifications of multiscale biochemical networks. International Conference of Intelligent Systems for Molecular Biology (ECCB/ISMB 2009) 1 July 2009, Stokholm, Sweden.
+‚Ä¢  Unsupervised machine learning in the analysis of high-throughput data for systems biology. Invited talk at Systems Biology for Medical Applications Summer School 29 Sept-03 Oct 2008, Tenerife, Spain.
+‚Ä¢  BiNoM: a tool for manipulating and analysis of biological networks. Invited talk at International Conference on Systems Biology Workshop 'Web-services in Systems Biology'. 28 August 2008, Gotenborg, Sweden.
+‚Ä¢  Method For Complexity Reduction And Model Comparison With Application To Nfkb Signalling. The Sixth International Conference on Bioinformatics of Genome Regulation and Structure. 24 July 2008, Russia, Novosibirsk, Russia.
+‚Ä¢  How much non-coding DNA do eukaryotes require? Invited talk at Think Tank in Systems Biology "Statistical semantics of genomes: from sequence to function". 27 May 2008, Evry, France.
+‚Ä¢  Projects and tools for systems biology at Curie Institute. EAST-SCOPE conference, 3-4 December 2007, Moscow, Russia.
+‚Ä¢  Frequency dictionaries and genome grammars. Invited talk at Repetitive DNA in the Genomic Era 14 Nov 2007, Leicester, UK.
+‚Ä¢  Elastic principal graphs and topological grammars for data approximation. Bell Labs Research seminar, 23 March 2007, New Jersey, USA.
+‚Ä¢  Ewing tumor as a model for systems biology. Journees Scientifiques et Medicales 2007. 9 Fevrier 2007, Paris.
+‚Ä¢  Codons, Genes and Networks: multiple scales in genomic organization. Theoretical Approaches for Genome (10 Novembre 2006) Annecy, France.
+‚Ä¢  Spectral analysis of gene expression profiles using gene networks. Bioinformatics of genome regulation and structure BGRS-2006 (July 16-22, 2006, Novosibirsk)
+‚Ä¢  Elastic maps and its applications in bioinformatics. Principal manifolds for data cartography and dimension reduction. Leicester, UK. August, 2006.
+‚Ä¢  Seven clusters and four types of symmetry in microbial genomes. Geometry of Genome: Unravelling of Structures Hidden in Genomic Sequences, Leicester, UK, 2005.
+‚Ä¢  Codon bias vector field. Geometry of Genome: Unravelling of Structures Hidden in Genomic Sequences, Leicester, UK, 2005.
+‚Ä¢  Elastic maps method and its applications in data visualization. VIII National scientific conference 'Neuroinformatics and its applications'. Krasnoyarsk, Russia, 2000.
 
 ## Visiting
 
