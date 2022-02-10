@@ -8,15 +8,8 @@ redirect_from:
 ---
 
 
-<style>
-td, th {
-   border: none!important;
-}
-</style>
+<img src="https://auranic.github.io/images/zinovyev.jpg" alt="" width="150"/> &nbsp; &nbsp; <font size="6">Andrei Zinovyev, PhD</font><br><br>*Full CV, updated 10/02/2022*  
 
-
-| <img src="https://auranic.github.io/images/zinovyev.jpg" alt="" width="150"/> | <font size="6">**Andrei Zinovyev, PhD**</font><br><br>*Full CV, updated 10/02/2022* | 
-| -------- | -------- | 
 
 
 
