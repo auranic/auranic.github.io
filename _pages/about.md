@@ -27,7 +27,7 @@ I got a permanent researcher position at <a href="http://curie.fr">Institut Curi
 strategy of a new systems biology research group.
 
 I co-author about 120 peer-reviewed publications, 3 books and 16 book chapters. 
-I supervised or co-supervised 10 PhD students.
+I supervised or co-supervised 15 PhD students.
 I am an active scientific software developer.
 I have extensive experience of scientific and industrial collaborations. 
 I teach short courses on data integration and application of machine learning in cancer research. 

@@ -17,10 +17,6 @@ redirect_from:
 * Cancer systems biology
 * Mathematical modeling, systems and data complexity
 
-
-### Professional networks
-[**GitHub**](https://github.com/auranic/) &nbsp; [**ResearchGate**](https://www.researchgate.net/profile/Andrei-Zinovyev)  &nbsp; [**ResearcherId**](https://publons.com/researcher/642881/andrei-zinovyev/) &nbsp; [**Google Scholar**](https://scholar.google.com/citations?user=r29H9sQAAAAJ) &nbsp; [**LinkedIn**](https://www.linkedin.com/in/andrei-zinovyev-4932a27/) <br>
-
 ## Education
 
 * **2014:** Habilitation thesis (HDR, Habilitation à diriger des recherches) in Biology, Department of Biology of École Normale Supérieure
