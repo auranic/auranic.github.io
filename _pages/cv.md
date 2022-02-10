@@ -1,21 +1,11 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
-
-
-<img src="https://auranic.github.io/images/zinovyev.jpg" alt="" width="150"/> &nbsp; &nbsp; <font size="6">Andrei Zinovyev, PhD</font><br><br>*Full CV, updated 10/02/2022*  
-
-
-
-
-
-
-
 | Personal data                                                                                        |                   Current positions |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | Born September 23, 1974 in Krasnoyarsk, USSR (Russia)<br>**Mailing address:** <br>Institut Curie, INSERM U900 26 rue d'Ulm, F75248, Paris, France. <br>**Tel:** (33)1-56-24-69-89 <br>**E-mail:** andrei.zinovyev@curie.fr<br>**WWW:** https://andreizinovyev.site<br>Languages: English (fluent), French (fluent), Russian (native) | Senior researcher at [Institut Curie](http://www.curie.fr), Paris, France <br><br> Scientific coordinator and co-lead  of [Computational Systems Biology of Cancer team](http://sysbio.curie.fr) in [CANCER AND GENOME: BIOINFORMATICS, BIOSTATISTICS AND EPIDEMIOLOGY OF COMPLEX SYSTEMS](https://curie.fr/unite/u900) INSERM unit  <br><br> Institut Curie / Inserm Unit 900 / Ecoles des Mines<br><br> Chair at [Paris Artificial Intelligence Research Institute (PRAIRIE)](https://prairie-institute.fr/) |
