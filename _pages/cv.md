@@ -114,7 +114,11 @@ Scientific advisor: Professor [Alexander N. Gorban](https://www2.le.ac.uk/depart
 
 ## Development of scientific software
 
-See my [GitHub page](https://github.com/auranic/) and the [list of the tools](http://sysbio.curie.fr/software.html) of [Computational Systems Biology of Cancer group](http://sysbio.curie.fr) at [Institut Curie](http://curie.fr) for many of which I contributed.
+* More than 20 years of experience in prototyping, packaging, deploying, testing and exploitation of complex scientific methods and software in life science, machine learning, mathematical modeling and computational systems biology
+* Long-term experience in designing scientific software packages and frameworks
+* Long-term experience in leading small (2-5 people) working groups of scientific software developers
+* Long-term experience in Borland Delphi, REDUCE, C/C++, VB, Maple, Java/JavaScript, MATLAB, Python, practical experience with major machine learning and deep learning frameworks 
+* See my [GitHub page](https://github.com/auranic/) and the [list of the tools](http://sysbio.curie.fr/software.html) of [Computational Systems Biology of Cancer group](http://sysbio.curie.fr) at [Institut Curie](http://curie.fr) for many of which I contributed.
 
 ## Conference and workshop committees and organization
 
