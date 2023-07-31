@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Andrei Zinovyev"
   avatar           : zinovyev.jpg
-  bio              : "PhD, Senior scientist, scientific coordinator of a research group"
-  location         : "Institut Curie"
-  employer         :
+  bio              : "PhD, Principal scientist, scientific coordinator of a research group"
+  location         : 
+  employer         : "Evotec"
   googlescholar    : "https://scholar.google.com/citations?user=r29H9sQAAAAJ&hl=fr"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Andrei_Zinovyev"
@@ -107,7 +107,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "SysBioCurie"
+  twitter          : "andrei_zinovyev"
   vine             :
   weibo            :
   xing             :
