@@ -13,6 +13,7 @@ redirect_from:
 ### Research interests
 
 * Machine Learning for biological and healthcare problems
+* AI in drug discovery
 * Statistics and geometry in high-dimensional data 
 * Cancer systems biology
 * Mathematical modeling, systems and data complexity
