@@ -8,7 +8,7 @@ redirect_from:
 ---
 | Personal data                                                                                        |                   Current positions |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| Born September 23, 1974 in Krasnoyarsk, USSR (Russia)<br>**Mailing address:** <br>Institut Curie, INSERM U900 26 rue d'Ulm, F75248, Paris, France. <br>**Tel:** (33)1-56-24-69-89 <br>**E-mail:** andrei.zinovyev@curie.fr<br>**WWW:** https://andreizinovyev.site<br>Languages: English (fluent), French (fluent), Russian (native) | Senior researcher at [Institut Curie](http://www.curie.fr), Paris, France <br><br> Scientific coordinator and co-lead  of [Computational Systems Biology of Cancer team](http://sysbio.curie.fr) in [CANCER AND GENOME: BIOINFORMATICS, BIOSTATISTICS AND EPIDEMIOLOGY OF COMPLEX SYSTEMS](https://curie.fr/unite/u900) INSERM unit<br> Institut Curie / Inserm Unit 900 / Ecoles des Mines<br><br> Chair at [Paris Artificial Intelligence Research Institute (PRAIRIE)](https://prairie-institute.fr/) |
+| Born September 23, 1974 in Krasnoyarsk, USSR (Russia)<br>**Mailing address:** <br>Institut Curie, INSERM U900 26 rue d'Ulm, F75248, Paris, France. <br>**Tel:** (33)1-56-24-69-89 <br>**E-mail:** andrei.zinovyev@curie.fr<br>**WWW:** https://andreizinovyev.site<br>Languages: English (fluent), French (fluent), Russian (native) | Principal Scientist and group leader at [Evotec](http://evotec.com), in silico R&amp;D department, Toulouse, France <br><br>  Scientific coordinator and co-lead  of [Computational Systems Biology of Cancer team](http://sysbio.curie.fr) in [CANCER AND GENOME: BIOINFORMATICS, BIOSTATISTICS AND EPIDEMIOLOGY OF COMPLEX SYSTEMS](https://curie.fr/unite/u900) INSERM unit<br> Institut Curie / Inserm Unit 900 / Ecoles des Mines<br><br> Chair at [Paris Artificial Intelligence Research Institute (PRAIRIE)](https://prairie-institute.fr/) |
 
 ### Research interests
 
@@ -30,12 +30,12 @@ Scientific advisor: Professor [Alexander N. Gorban](https://www2.le.ac.uk/depart
 
 ## Experience
 
-#### Science
+#### Academic science
 
 * **2019-present** - Chair at [Paris Artificial Intelligence Research Institute](https://prairie-institute.fr/), leading a research group (1 postdoc, 3 PhD students) with focus on AI in biology and medicine
 * **2017-present** - Co-founder of the [Disease Maps International Community](https://disease-maps.org/team)
-* **2007-present** - scientific coordinator and co-lead (together with Emmanuel Barillot) of [Computational Systems Biology of Cancer](http://sysbio.curie.fr) team (interdisciplinary group of 15-20 post-docs and PhD students)
-* **2005-present** - permanent researcher at [Institut Curie](http://curie.fr) in Paris, INSERM U900
+* **2007-present** - scientific coordinator and co-lead (together with Emmanuel Barillot) of [Computational Systems Biology of Cancer](http://sysbio.curie.fr) team (interdisciplinary group of 15-20 post-docs and PhD students) 
+* **2005-present** - permanent researcher at [Institut Curie](http://curie.fr) in Paris, INSERM U900 (currently at sabbatical leave)
 * **2010-present** – supervisor of PhD projects (starting from 2014 as main supervisor)
 * **2006-present** – coordinating research projects, funded by EU, ANR, INCa, ITMO Cancer as local or principal coordinator
 * **2001-2004** - postdoc, project "Mathematics and Biology" ([Institut des Hautes Etudes Scientifiques](https://www.ihes.fr/), France), under supervision of Professor [M. Gromov](https://fr.wikipedia.org/wiki/Mikha%C3%AFl_Gromov)
@@ -48,6 +48,7 @@ Scientific advisor: Professor [Alexander N. Gorban](https://www2.le.ac.uk/depart
 
 [//]: # (* **2017-2020** – Consulting for machine learning and systems biology for a large cosmetics company client)
 
+* **2022-present** - Principal Scientist at [Evotec](http://evotec.com), group leader in In Silico R&amp;D
 * **2002-2003** - Project leader, creation of a parallelized bioinformatics platform Plug&Blast for a cluster of processors, Artabel startup company, Orsay, France
 * **May-December 2001** - Principal software developer and a group leader, creation of an information system for automated access to world-wide patent databases, [SibTeCom](https://www.rusprofile.ru/id/10132797) Company, Krasnoyarsk, Russia
 * **1997-2001** - Principal software developer. Development of a book-keeping system for a computer seller company [KomPAK](http://www.kompak.ru/new/news/news.php), Krasnoyarsk, Russia
