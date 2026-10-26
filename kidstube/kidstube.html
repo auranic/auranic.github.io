@@ -11,7 +11,7 @@
 <style>
 :root {
   --bg: #0f0e17; --card: #1e1b30;
-  --a1:#ff6b6b; --a2:#ffd93d; --a3:#6bcb77; --a4:#4d96ff; --a5:#ff9f1c; --a6:#c77dff; --a7:#ff6bce; --a8:#00c9a7; --a9:#f72585;
+  --a1:#ff6b6b; --a2:#ffd93d; --a3:#6bcb77; --a4:#4d96ff; --a5:#ff9f1c; --a6:#c77dff; --a7:#ff6bce; --a8:#00c9a7; --a9:#f72585; --a10:#ff9f1c; --a11:#48cae4;
   --text:#f5f0ff; --sub:#9b97b2; --r:18px;
 }
 * { box-sizing:border-box; margin:0; padding:0; -webkit-tap-highlight-color:transparent; }
@@ -65,12 +65,13 @@ html, body { width:100%; height:100%; overflow:hidden; font-family:'Nunito',sans
 .ch-emoji { font-size:2.4rem; line-height:1; }
 .ch-name { font-family:'Fredoka One',cursive; font-size:1rem; text-align:center; line-height:1.2; }
 .ch-tag { font-size:0.68rem; font-weight:800; text-transform:uppercase; letter-spacing:.4px; color:var(--clr); background:rgba(255,255,255,0.07); padding:2px 8px; border-radius:20px; }
-.c1{--clr:var(--a1)} .c2{--clr:var(--a2)} .c3{--clr:var(--a3)} .c4{--clr:var(--a4)} .c5{--clr:var(--a5)} .c6{--clr:var(--a6)} .c7{--clr:var(--a7)} .c8{--clr:var(--a8)} .c9{--clr:var(--a9)}
+.c1{--clr:var(--a1)} .c2{--clr:var(--a2)} .c3{--clr:var(--a3)} .c4{--clr:var(--a4)} .c5{--clr:var(--a5)} .c6{--clr:var(--a6)} .c7{--clr:var(--a7)} .c8{--clr:var(--a8)} .c9{--clr:var(--a9)} .c10{--clr:var(--a10)} .c11{--clr:var(--a11)}
 .ch-card:nth-child(1){animation-delay:.04s} .ch-card:nth-child(2){animation-delay:.08s}
 .ch-card:nth-child(3){animation-delay:.12s} .ch-card:nth-child(4){animation-delay:.16s}
 .ch-card:nth-child(5){animation-delay:.20s} .ch-card:nth-child(6){animation-delay:.24s}
 .ch-card:nth-child(7){animation-delay:.28s} .ch-card:nth-child(8){animation-delay:.32s}
-.ch-card:nth-child(9){animation-delay:.36s}
+.ch-card:nth-child(9){animation-delay:.36s} .ch-card:nth-child(10){animation-delay:.40s}
+.ch-card:nth-child(11){animation-delay:.44s}
 @keyframes fadeUp { from{opacity:0;transform:translateY(16px)} to{opacity:1;transform:translateY(0)} }
 
 /* ── VIDEO LIST ── */
@@ -131,7 +132,9 @@ html, body { width:100%; height:100%; overflow:hidden; font-family:'Nunito',sans
       <div class="ch-card c6" onclick="loadChannel(5)"><div class="ch-emoji">📺</div><div class="ch-name">Classic Cartoons</div><div class="ch-tag">Vintage</div></div>
       <div class="ch-card c7" onclick="loadChannel(6)"><div class="ch-emoji">🌍</div><div class="ch-name">Discovery</div><div class="ch-tag">Documentary</div></div>
       <div class="ch-card c8" onclick="loadChannel(7)"><div class="ch-emoji">🦁</div><div class="ch-name">Nat Geo France</div><div class="ch-tag">Nature</div></div>
-      <div class="ch-card c9 wide" onclick="loadChannel(8)"><div class="ch-emoji">🗺️</div><div><div class="ch-name">RealLifeLore</div><div class="ch-tag">Geography</div></div></div>
+      <div class="ch-card c9" onclick="loadChannel(8)"><div class="ch-emoji">🗺️</div><div class="ch-name">RealLifeLore</div><div class="ch-tag">Geography</div></div>
+      <div class="ch-card c10" onclick="loadChannel(9)"><div class="ch-emoji">🍩</div><div class="ch-name">Donut</div><div class="ch-tag">Cars</div></div>
+      <div class="ch-card c11 wide" onclick="loadChannel(10)"><div class="ch-emoji">🚗</div><div><div class="ch-name">carwow</div><div class="ch-tag">Drag Races</div></div></div>
     </div>
   </div>
 </div>
@@ -177,6 +180,8 @@ const CHANNELS = [
   { name:'Discovery',        handle:'discovery',            emoji:'🌍' },
   { name:'Nat Geo France',  handle:'NatGeoFrance',         emoji:'🦁' },
   { name:'RealLifeLore',    handle:'RealLifeLore',         emoji:'🗺️' },
+  { name:'Donut',           handle:'donutmedia',           emoji:'🍩' },
+  { name:'carwow',          handle:'carwow',               emoji:'🚗' },
 ];
 
 const playlistCache = {};
